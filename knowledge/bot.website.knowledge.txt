@@ -1,0 +1,6272 @@
+===== URL: https://litterbox.fyi/ =====
+# Litterbox - Mods for Cat Goes Fishing
+Litterbox - Mods for Cat Goes Fishing
+
+Mods
+Creators
+
+Sort by
+
+Newest
+Top rated
+Name (A-Z)
+
+Previews
+
+Loading…
+
+Loading mods…
+
+Public mod listings:
+[
+  {
+    "id": 31,
+    "name": "Good-for-nothing Mod",
+    "author": "Atos",
+    "description": "Little to no effort on this mod:\n- new boat (1)\n- a bit of a new area\n- 7 new fish",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-30T20:00:39.321771+00:00"
+  },
+  {
+    "id": 30,
+    "name": "Oops! All Chaws!",
+    "author": "sealman123",
+    "description": "this mod adds chaws, and an elder chaw that will make your huge fish hunting way harder",
+    "is_preview": false,
+    "download_count": 5,
+    "rating": 5,
+    "rating_count": 1,
+    "created_at": "2026-08-29T08:27:34.096049+00:00"
+  },
+  {
+    "id": 29,
+    "name": "Atos Simple Markers",
+    "author": "Atos",
+    "description": "It adds markers/signs for each area of the game like the silo",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-25T04:42:38.09916+00:00"
+  },
+  {
+    "id": 28,
+    "name": "Coral Refractions",
+    "author": "Pearlescence",
+    "description": "A complete reimagination of Cat Goes Fishing.",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 5,
+    "rating_count": 4,
+    "created_at": "2026-08-25T00:58:38.190994+00:00"
+  },
+  {
+    "id": 27,
+    "name": "Open Silo",
+    "author": "Atos",
+    "description": "Nothing much.. (Definitely not a malware btw)",
+    "is_preview": false,
+    "download_count": 22,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-20T21:44:37.405196+00:00"
+  },
+  {
+    "id": 25,
+    "name": "The Valley",
+    "author": "Kapable",
+    "description": "This is a mini-mod which I am making in my sparetime. Don't expect anything game changing..._yet_... :]",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 3.5,
+    "rating_count": 2,
+    "created_at": "2026-08-19T17:57:55.214429+00:00"
+  },
+  {
+    "id": 23,
+    "name": "Flora N Flores",
+    "author": "guy",
+    "description": "a mod to make what could have been of the Lotus Cave!\n\nDemo right here : \nhttps://gamejolt.com/games/flora_and_florini/1093210",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4,
+    "rating_count": 1,
+    "created_at": "2026-08-17T07:50:23.201812+00:00"
+  },
+  {
+    "id": 22,
+    "name": "A NEW VOID",
+    "author": "hycrisik120",
+    "description": "A NEW VOID is a mod that is planned to have over 200 NEW FISH!\nAlot of fish will have their own gimmicks. And also BOSSES!\nThere will be over 15 areas to explore as well!",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.25,
+    "rating_count": 4,
+    "created_at": "2026-08-15T14:16:44.705223+00:00"
+  },
+  {
+    "id": 21,
+    "name": "I Hear Echoes.",
+    "author": "newqu",
+    "description": "Hey what is it? Julius.. are you back? We.. miss you. Please come back as soon as possible.",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-15T12:56:11.790572+00:00"
+  },
+  {
+    "id": 19,
+    "name": "Advancing Forward",
+    "author": "guy",
+    "description": "This mod adds 3 new biomes to the Furthest Ocean and lets you go farther out with the Tech Boat because i couldnt make a new boat. This Sucks!\n\nguide fo the areas, foo:\n\nLotus Cave is right under Problematicus.\n\nDesolate Deep can be accessed after going past Lotus Cave.\n\nNorth Sea....just explore dawg",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4,
+    "rating_count": 3,
+    "created_at": "2026-08-15T00:56:13.639205+00:00"
+  },
+  {
+    "id": 18,
+    "name": "Cave Expansion 2",
+    "author": "Niko",
+    "description": "Do i need to explain? Expands caves like cave expansion 1 did but in a new, refreshed and much better form. Over a hundred fish to discover, new lightbulb variant, rod abilities, systems and much more!",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 5,
+    "rating_count": 5,
+    "created_at": "2026-08-07T19:38:25.754628+00:00"
+  },
+  {
+    "id": 16,
+    "name": "Verdant (BETA)",
+    "author": "Peach_Lizor",
+    "description": "Replaces kelp Plateo with a new area full of kelp. And adds a completely new area in the furthest ocean\nAlso changes the map a bit!\nBeta is already done :D",
+    "is_preview": false,
+    "download_count": 8,
+    "rating": 3.5,
+    "rating_count": 2,
+    "created_at": "2026-07-29T15:31:23.93012+00:00"
+  },
+  {
+    "id": 15,
+    "name": "Undercaves",
+    "author": "TheGreatFih",
+    "description": "Mod add new underneath fishes and caves that is underneath the game map. I'm are from Russia.\n\nUndercaves will, add new fish and new cave with many brakable rock. Game will also have new boss fighting fishes.",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.5,
+    "rating_count": 2,
+    "created_at": "2026-07-24T16:23:21.891812+00:00"
+  },
+  {
+    "id": 10,
+    "name": "Prehistoria (BETA)",
+    "author": "JohnSnowconez",
+    "description": "Prehistoria is a complete overhaul replacing  everything with new stuff from the Cambrian-Devonian period (200 million years ago) like boats, rods, lures and even the main character herself. This game involves Cathra, a cat who cannot swim and needs to pay rock support for her home, so she has to fish the most tasty and expensive sea creatures that ever exists to please the cavecat president.\nThis mod will add;\nNew mechanics to new fish\nNew lures\nNew shops\nChanges to existing mechanics\nNew background\nNew terrain\nNew areas\nLore(?)\nWe hope you have fun playing this mod when it releases!\nOur Discord Server:[text](https://discord.gg/6cs4mshh8)\n\n![](https://cdn.discordapp.com/attachments/1518977983795298325/1529088944745218219/Screenshot_2026-07-19-19-59-43-746_com.discord-edit.jpg?ex=6a60aa8d&is=6a5f590d&hm=9b0a51b6207dafb7aec5ba6350e7e480e4e97ab34e84894697f5915235ee3c49&)![](https://cdn.discordapp.com/attachments/1518977983795298325/1529088945021911100/Screenshot_2026-07-19-20-00-19-453_com.discord-edit.jpg?ex=6a60aa8d&is=6a5f590d&hm=b3412311efb349e78df4b30158f4ce0e6143ae1d7a5cf76850ebb0aca232ea06&)",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.67,
+    "rating_count": 3,
+    "created_at": "2026-07-19T17:05:02.628862+00:00"
+  },
+  {
+    "id": 8,
+    "name": "Awesomesauce Mod Pack™",
+    "author": "_BeeKing_",
+    "description": "warning!!! unexperienced modder!!!\n\n(not actually a mod pack)\n\nThis mod adds stuff such as (but not limited to):\n- brand NEW fish which YOU have NEVER seen before!\n- an extension of the map 👀\n- Random things, Other things, Cool things, dorKY things!!!\n- RAndom thINgs Bound tO appear When playing thiS\n- a traffic cone\n\n\n[AMP™ Discord server](https://discord.gg/nNvMQ8HChs)",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.25,
+    "rating_count": 4,
+    "created_at": "2026-07-19T13:10:26.070115+00:00"
+  },
+  {
+    "id": 7,
+    "name": "Schizophrenia",
+    "author": "Velvet",
+    "description": "This is a cat goes fishing mod that adds;\n\n    Sanity bar (Saves, Player starts with 100, Goes down by 1 slowly.\n\n    2 Pills to boost sanity in the new Shop\n\n    Fish have a one in 5 chance to go ''Poof'' once caught.\n\n    Cat sprites depending on sanity\n\n    Most fish are reskinned.\n\n    There is a ''Mist'' to the ocean.\n\n    Reskins to boat1 and boat6 drawn by Velvet\n\n    Old CGF Background from 2014.\n\n    Old Sea from 2014.\n\n    Old Cliff from 2014.\n\n    There is more planned.\n\nCREDITS-\nPIM",
+    "is_preview": false,
+    "download_count": 4,
+    "rating": 5,
+    "rating_count": 3,
+    "created_at": "2026-07-19T12:39:37.236689+00:00"
+  },
+  {
+    "id": 6,
+    "name": "Grotto Expansion",
+    "author": "Velvet",
+    "description": "## Grotto Expansion\n\nA High effort mod that adds the following :\n- New rod\n- New boat\n- Louis the NPC\n- Tons of new fish\n- Many new functions for multiple things\n- Multiple functional sea objects that arent fish\n- New shop with  lots of new lures\n\n## MOST IMPORTANTLY\n\n **The Grotto**\n\n- A Massive new area that is twice the size of the 2 Plateaus combined!",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.17,
+    "rating_count": 6,
+    "created_at": "2026-07-19T12:25:07.752144+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Antiquity",
+    "author": "newqu",
+    "description": "### Antiquity is a mod that adds lots of new content. Dive down into the ocean to find and discover new fish and mechanics!\n\n****\n[youtube](https://www.youtube.com/watch?v=pCSFz3USpIw)",
+    "is_preview": false,
+    "download_count": 27,
+    "rating": 4.75,
+    "rating_count": 8,
+    "created_at": "2026-07-17T15:50:06.792849+00:00"
+  }
+]
+
+===== URL: https://litterbox.fyi/index.html =====
+# Litterbox - Mods for Cat Goes Fishing
+Litterbox - Mods for Cat Goes Fishing
+
+Mods
+Creators
+
+Sort by
+
+Newest
+Top rated
+Name (A-Z)
+
+Previews
+
+Loading…
+
+Loading mods…
+
+Public mod listings:
+[
+  {
+    "id": 31,
+    "name": "Good-for-nothing Mod",
+    "author": "Atos",
+    "description": "Little to no effort on this mod:\n- new boat (1)\n- a bit of a new area\n- 7 new fish",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-30T20:00:39.321771+00:00"
+  },
+  {
+    "id": 30,
+    "name": "Oops! All Chaws!",
+    "author": "sealman123",
+    "description": "this mod adds chaws, and an elder chaw that will make your huge fish hunting way harder",
+    "is_preview": false,
+    "download_count": 5,
+    "rating": 5,
+    "rating_count": 1,
+    "created_at": "2026-08-29T08:27:34.096049+00:00"
+  },
+  {
+    "id": 29,
+    "name": "Atos Simple Markers",
+    "author": "Atos",
+    "description": "It adds markers/signs for each area of the game like the silo",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-25T04:42:38.09916+00:00"
+  },
+  {
+    "id": 28,
+    "name": "Coral Refractions",
+    "author": "Pearlescence",
+    "description": "A complete reimagination of Cat Goes Fishing.",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 5,
+    "rating_count": 4,
+    "created_at": "2026-08-25T00:58:38.190994+00:00"
+  },
+  {
+    "id": 27,
+    "name": "Open Silo",
+    "author": "Atos",
+    "description": "Nothing much.. (Definitely not a malware btw)",
+    "is_preview": false,
+    "download_count": 22,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-20T21:44:37.405196+00:00"
+  },
+  {
+    "id": 25,
+    "name": "The Valley",
+    "author": "Kapable",
+    "description": "This is a mini-mod which I am making in my sparetime. Don't expect anything game changing..._yet_... :]",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 3.5,
+    "rating_count": 2,
+    "created_at": "2026-08-19T17:57:55.214429+00:00"
+  },
+  {
+    "id": 23,
+    "name": "Flora N Flores",
+    "author": "guy",
+    "description": "a mod to make what could have been of the Lotus Cave!\n\nDemo right here : \nhttps://gamejolt.com/games/flora_and_florini/1093210",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4,
+    "rating_count": 1,
+    "created_at": "2026-08-17T07:50:23.201812+00:00"
+  },
+  {
+    "id": 22,
+    "name": "A NEW VOID",
+    "author": "hycrisik120",
+    "description": "A NEW VOID is a mod that is planned to have over 200 NEW FISH!\nAlot of fish will have their own gimmicks. And also BOSSES!\nThere will be over 15 areas to explore as well!",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.25,
+    "rating_count": 4,
+    "created_at": "2026-08-15T14:16:44.705223+00:00"
+  },
+  {
+    "id": 21,
+    "name": "I Hear Echoes.",
+    "author": "newqu",
+    "description": "Hey what is it? Julius.. are you back? We.. miss you. Please come back as soon as possible.",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 0,
+    "rating_count": 0,
+    "created_at": "2026-08-15T12:56:11.790572+00:00"
+  },
+  {
+    "id": 19,
+    "name": "Advancing Forward",
+    "author": "guy",
+    "description": "This mod adds 3 new biomes to the Furthest Ocean and lets you go farther out with the Tech Boat because i couldnt make a new boat. This Sucks!\n\nguide fo the areas, foo:\n\nLotus Cave is right under Problematicus.\n\nDesolate Deep can be accessed after going past Lotus Cave.\n\nNorth Sea....just explore dawg",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4,
+    "rating_count": 3,
+    "created_at": "2026-08-15T00:56:13.639205+00:00"
+  },
+  {
+    "id": 18,
+    "name": "Cave Expansion 2",
+    "author": "Niko",
+    "description": "Do i need to explain? Expands caves like cave expansion 1 did but in a new, refreshed and much better form. Over a hundred fish to discover, new lightbulb variant, rod abilities, systems and much more!",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 5,
+    "rating_count": 5,
+    "created_at": "2026-08-07T19:38:25.754628+00:00"
+  },
+  {
+    "id": 16,
+    "name": "Verdant (BETA)",
+    "author": "Peach_Lizor",
+    "description": "Replaces kelp Plateo with a new area full of kelp. And adds a completely new area in the furthest ocean\nAlso changes the map a bit!\nBeta is already done :D",
+    "is_preview": false,
+    "download_count": 8,
+    "rating": 3.5,
+    "rating_count": 2,
+    "created_at": "2026-07-29T15:31:23.93012+00:00"
+  },
+  {
+    "id": 15,
+    "name": "Undercaves",
+    "author": "TheGreatFih",
+    "description": "Mod add new underneath fishes and caves that is underneath the game map. I'm are from Russia.\n\nUndercaves will, add new fish and new cave with many brakable rock. Game will also have new boss fighting fishes.",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.5,
+    "rating_count": 2,
+    "created_at": "2026-07-24T16:23:21.891812+00:00"
+  },
+  {
+    "id": 10,
+    "name": "Prehistoria (BETA)",
+    "author": "JohnSnowconez",
+    "description": "Prehistoria is a complete overhaul replacing  everything with new stuff from the Cambrian-Devonian period (200 million years ago) like boats, rods, lures and even the main character herself. This game involves Cathra, a cat who cannot swim and needs to pay rock support for her home, so she has to fish the most tasty and expensive sea creatures that ever exists to please the cavecat president.\nThis mod will add;\nNew mechanics to new fish\nNew lures\nNew shops\nChanges to existing mechanics\nNew background\nNew terrain\nNew areas\nLore(?)\nWe hope you have fun playing this mod when it releases!\nOur Discord Server:[text](https://discord.gg/6cs4mshh8)\n\n![](https://cdn.discordapp.com/attachments/1518977983795298325/1529088944745218219/Screenshot_2026-07-19-19-59-43-746_com.discord-edit.jpg?ex=6a60aa8d&is=6a5f590d&hm=9b0a51b6207dafb7aec5ba6350e7e480e4e97ab34e84894697f5915235ee3c49&)![](https://cdn.discordapp.com/attachments/1518977983795298325/1529088945021911100/Screenshot_2026-07-19-20-00-19-453_com.discord-edit.jpg?ex=6a60aa8d&is=6a5f590d&hm=b3412311efb349e78df4b30158f4ce0e6143ae1d7a5cf76850ebb0aca232ea06&)",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.67,
+    "rating_count": 3,
+    "created_at": "2026-07-19T17:05:02.628862+00:00"
+  },
+  {
+    "id": 8,
+    "name": "Awesomesauce Mod Pack™",
+    "author": "_BeeKing_",
+    "description": "warning!!! unexperienced modder!!!\n\n(not actually a mod pack)\n\nThis mod adds stuff such as (but not limited to):\n- brand NEW fish which YOU have NEVER seen before!\n- an extension of the map 👀\n- Random things, Other things, Cool things, dorKY things!!!\n- RAndom thINgs Bound tO appear When playing thiS\n- a traffic cone\n\n\n[AMP™ Discord server](https://discord.gg/nNvMQ8HChs)",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.25,
+    "rating_count": 4,
+    "created_at": "2026-07-19T13:10:26.070115+00:00"
+  },
+  {
+    "id": 7,
+    "name": "Schizophrenia",
+    "author": "Velvet",
+    "description": "This is a cat goes fishing mod that adds;\n\n    Sanity bar (Saves, Player starts with 100, Goes down by 1 slowly.\n\n    2 Pills to boost sanity in the new Shop\n\n    Fish have a one in 5 chance to go ''Poof'' once caught.\n\n    Cat sprites depending on sanity\n\n    Most fish are reskinned.\n\n    There is a ''Mist'' to the ocean.\n\n    Reskins to boat1 and boat6 drawn by Velvet\n\n    Old CGF Background from 2014.\n\n    Old Sea from 2014.\n\n    Old Cliff from 2014.\n\n    There is more planned.\n\nCREDITS-\nPIM",
+    "is_preview": false,
+    "download_count": 4,
+    "rating": 5,
+    "rating_count": 3,
+    "created_at": "2026-07-19T12:39:37.236689+00:00"
+  },
+  {
+    "id": 6,
+    "name": "Grotto Expansion",
+    "author": "Velvet",
+    "description": "## Grotto Expansion\n\nA High effort mod that adds the following :\n- New rod\n- New boat\n- Louis the NPC\n- Tons of new fish\n- Many new functions for multiple things\n- Multiple functional sea objects that arent fish\n- New shop with  lots of new lures\n\n## MOST IMPORTANTLY\n\n **The Grotto**\n\n- A Massive new area that is twice the size of the 2 Plateaus combined!",
+    "is_preview": true,
+    "download_count": 0,
+    "rating": 4.17,
+    "rating_count": 6,
+    "created_at": "2026-07-19T12:25:07.752144+00:00"
+  },
+  {
+    "id": 4,
+    "name": "Antiquity",
+    "author": "newqu",
+    "description": "### Antiquity is a mod that adds lots of new content. Dive down into the ocean to find and discover new fish and mechanics!\n\n****\n[youtube](https://www.youtube.com/watch?v=pCSFz3USpIw)",
+    "is_preview": false,
+    "download_count": 27,
+    "rating": 4.75,
+    "rating_count": 8,
+    "created_at": "2026-07-17T15:50:06.792849+00:00"
+  }
+]
+
+===== URL: https://litterbox.fyi/privacy.html =====
+# Privacy Policy - Litterbox
+Privacy Policy - Litterbox
+
+Privacy Policy
+
+Last updated: August 1, 2026
+
+is a small, non-commercial, fan-made site for Cat Goes Fishing mods, run by one person in their
+spare time - not a company. This page explains, in plain language, what information the site collects,
+why, and what say you have over it. If anything here is unclear, just email
+[email protected] .
+
+On this page
+
+1. Who runs Litterbox
+
+2. What we collect
+
+3. Why we use it
+
+4. What's public vs. private
+
+5. Who we share data with
+
+6. Cookies & local storage
+
+7. How long we keep things
+
+8. Your rights
+
+9. Age requirement
+
+10. Security
+
+11. Changes to this policy
+
+12. Contact
+
+1. Who runs Litterbox
+
+Litterbox ( litterbox.fyi ) is
+operated independently, as a hobby, by an individual based in Poland. It isn't a registered company, and
+it doesn't run ads or make money from the site in any way - it exists purely to help Cat Goes Fishing
+modders share their work in one place. For anything related to privacy or your data, contact
+[email protected] .
+
+2. What we collect
+
+Account info - if you sign up with email and password, we store your email address and your password (encrypted, we never see it in plain text) through our database provider, Supabase.
+
+Discord sign-in - if you choose "Continue with Discord" instead, Discord shares your account email and basic profile info with us through Discord's own login system (OAuth), and you don't set a separate password.
+
+Profile info - the username you pick, plus anything optional you add: a short bio and an avatar image.
+
+Content you upload - mod files, names, descriptions, icons, banners, and any changelog or announcement posts you write.
+
+Activity on the site - which mods you favorite, follow, or rate, and any reports you submit about a mod.
+
+Basic technical data - standard web server logs from GitHub Pages (which hosts these pages) and Supabase (our database and file host), such as IP address, browser type, and request timestamps. This is routine infrastructure logging, not something we've set up ourselves to track or analyze you.
+
+3. Why we use it
+
+To run your account and the site's features - signing up, logging in, uploading mods, favoriting, following, notifications.
+
+To keep the community safe - reviewing new mods before they go public, handling reports, and preventing abuse.
+
+Where you've chosen it - for example, signing in through Discord instead of a password.
+
+4. What's public vs. private
+
+Heads up: your username, avatar, bio, badges, and the mods you've uploaded and
+favorited are all shown publicly on your profile page, visible to anyone - logged in or not.
+Your email address, password, and any reports you submit are never shown publicly.
+
+Keep this in mind when choosing a username or avatar, and when favoriting mods if you'd rather that stay private.
+
+5. Who we share data with
+
+Supabase ( supabase.com ) - hosts the site's database, file storage, and login system. Depending on how the project is configured, this may store data outside Poland or the EEA.
+
+Discord - only if you choose to sign in with Discord; Discord Inc. handles that login step directly.
+
+GitHub Pages - hosts the static pages you're browsing right now.
+
+We don't sell your data, run advertising, or share it with marketers. We don't currently use any analytics or tracking tools.
+
+6. Cookies & local storage
+
+Litterbox doesn't use tracking or advertising cookies. To keep you logged in, your browser stores your
+session using local storage - a technology similar to cookies. This is strictly necessary for the site
+to function and doesn't require separate consent under EU rules. If that ever changes (for example, if
+we add analytics in the future), we'll update this page first.
+
+7. How long we keep things
+
+We keep your account and content for as long as your account exists. You can delete any mod you've
+uploaded yourself, any time, from its Manage page. To delete your whole account, email us and we'll take
+care of it. We may keep minimal records of serious rule violations (like a removed mod containing
+malware) for abuse-prevention purposes even after an account is deleted.
+
+8. Your rights
+
+Under GDPR, you can ask us to:
+
+Give you a copy of the data we hold about you (access)
+
+Correct inaccurate data (rectification)
+
+Delete your data (erasure)
+
+Limit how we use it (restriction) or object to certain uses
+
+Give you your data in a portable format (portability)
+
+To use any of these rights, email [email protected] .
+If you're not satisfied with how we handle a request, you can complain to Poland's data protection
+authority, the Urząd Ochrony Danych Osobowych (UODO) .
+
+9. Age requirement
+
+Litterbox is meant for users aged 13 and up . If you're under 16, EU and Polish law
+require that you have a parent or guardian's permission before creating an account. By signing up, you're
+confirming that you meet this requirement. If we learn that a child has created an account without the
+appropriate permission, we'll remove it.
+
+10. Security
+
+We rely on Supabase's security infrastructure and follow reasonable practices to protect your data, but
+no online service can guarantee complete security. Please use a password you don't reuse anywhere else,
+or sign in with Discord instead.
+
+11. Changes to this policy
+
+If this policy changes, we'll update the "last updated" date at the top of this page. For significant
+changes, we'll try to post an announcement on the site as well.
+
+12. Contact
+
+Questions about this policy or your data? Email [email protected] .
+
+← Back to mods
+Terms of Service
+
+===== URL: https://litterbox.fyi/terms.html =====
+# Terms of Service - Litterbox
+Terms of Service - Litterbox
+
+Terms of Service
+
+Last updated: August 1, 2026
+
+These are the rules for using Litterbox. They're written to be readable rather than dense - but they're
+still the terms you're agreeing to by using the site. Questions? Email
+[email protected] .
+
+On this page
+
+1. What Litterbox is
+
+2. Who can use it
+
+3. Your account
+
+4. Your content
+
+5. Rules
+
+6. Moderation
+
+7. Downloading mods
+
+8. No warranty
+
+9. Limitation of liability
+
+10. Ending your account
+
+11. Changes to these terms
+
+12. Governing law
+
+13. Contact
+
+1. What Litterbox is
+
+Litterbox is a free, non-commercial, fan-made platform where the Cat Goes Fishing community can share
+and discover mods. It's run by one person as a hobby project, not a business. Litterbox is an
+independent project and isn't affiliated with, endorsed by, or sponsored by the creators of Cat Goes
+Fishing.
+
+2. Who can use it
+
+You need to be at least 13 years old to use Litterbox. If you're under 16, you need a parent or
+guardian's permission first, in line with EU and Polish law. By creating an account, you're confirming
+you meet this requirement.
+
+3. Your account
+
+Keep your login details to yourself - you're responsible for what happens under your account.
+
+One account per person. Don't impersonate someone else or pretend to be a mod's creator when you're not.
+
+We can suspend or remove an account that breaks these rules.
+
+4. Your content
+
+You keep ownership of the mods, descriptions, icons, banners, and posts you upload.
+
+You need to actually own the rights to what you upload, or have clear permission to share it - don't upload someone else's mod as your own, or use assets you don't have rights to.
+
+By uploading, you give Litterbox a non-exclusive, royalty-free license to host, store, display, and let others download that content through the site, for as long as it's on the site.
+
+You can remove your own mods at any time from the Manage page.
+
+5. Rules
+
+Don't upload or post anything that:
+
+Contains malware, viruses, or other harmful code
+
+Isn't actually yours to share, or that you copied from someone without permission
+
+Is illegal, hateful, harassing, sexually explicit, or endangers or exploits minors in any way
+
+Is spam or unrelated to Cat Goes Fishing modding
+
+Also don't try to abuse, exploit, or circumvent the site's systems - including its moderation,
+security, or rate limits. If you sign in with Discord, Discord's own rules apply to that as well.
+
+6. Moderation
+
+Mods uploaded with a file go through a quick manual review before they appear publicly. Preview-only
+mods (uploaded without a file yet) are visible immediately, clearly labeled "Preview." We can reject,
+remove, or take down any content - and suspend or ban accounts - at our discretion, especially for
+breaking the rules above.
+
+Anyone can report a mod that seems to break the rules, and we review every report. If your mod is
+rejected, you'll see why on its Manage page - you're welcome to fix the issue and reach out if you think
+it was a mistake.
+
+7. Downloading mods
+
+Mods are made and uploaded by other community members, not by Litterbox itself. We do a manual review
+before a mod goes public, but we can't guarantee every file is completely safe or bug-free. Download and
+run mods at your own judgment - and if something seems off, please report it.
+
+8. No warranty
+
+Litterbox is provided "as is," run in one person's spare time. We don't guarantee it'll always be
+available, bug-free, or unchanged - features can change, and the site could go offline, at any time.
+We'll try to give a heads-up for anything major, but we can't promise it.
+
+9. Limitation of liability
+
+To the extent allowed by law, Litterbox and the person running it aren't liable for damages or losses
+arising from your use of the site or any mod downloaded through it. Use the site and any downloaded
+files at your own risk.
+
+10. Ending your account
+
+You can stop using Litterbox and ask us to delete your account at any time - just email us. We can also
+suspend or terminate access for anyone who breaks these rules.
+
+11. Changes to these terms
+
+We might update these terms occasionally as the site evolves. The "last updated" date at the top will
+reflect that. Continuing to use Litterbox after a change means you accept the updated terms.
+
+12. Governing law
+
+These terms are governed by Polish law, without taking away any mandatory consumer-protection rights you
+have under the law of the country where you live.
+
+13. Contact
+
+Questions about these terms? Email [email protected] .
+
+← Back to mods
+Privacy Policy
+
+===== URL: https://litterbox.fyi/profile.html?u=${encodeURIComponent(p.username)} =====
+# Profile - Litterbox
+Profile - Litterbox
+
+Loading profile…
+
+Edit profile
+
+Badges
+
+Mods
+
+Credited in
+
+Favorited mods
+
+Public creator profile:
+{
+  "mods": []
+}
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Cave_Shark =====
+# Cave Shark
+"The Cave Shark spends most of its existence in silent reflection, subsisting only on the occasional stray Bombat."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching Guide
+
+3 Bugs
+
+Statistics [ ]
+
+Cave Shark
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$800,000
+
+Location
+
+Sea Caverns
+
+The Cave Shark is a Huge grey fish with a streamlined body and eyes that appear half-closed. It is considered one of the hardest fish in the game to catch, and is also one of the most valuable (beaten by the extremely high-value fish like the Dragon , Josie and Sodafish ).
+
+Location [ ]
+
+The Cave in which the cave shark is found on the map of the Sea Caverns.
+
+The Cave Shark is found in a small cavern to the west of the central Caverns . It remains motionless, making it reasonably easy to find, but even getting it to bite is not easy.
+
+Catching Guide [ ]
+
+DISCLAMER: DONT USE HUGE OR MEGA HOOK
+
+The first challenge in catching the Cave Shark is convincing it to bite. As its Catalog entry suggests, it requires a Bombat to be used as bait (the Bombat does not need to be alive).
+
+You will need:
+
+A rock (Bombats will also bite a bomb, but since this will explode and cause them to flee, this does not allow them to be used as bait for another fish) and the Scouting rod upgrade (otherwise the line will be reeled in upon catching a rock)
+
+Sinker upgrade
+
+Lightbulb (Optional but recommended)
+
+Gauge and Improved Crank upgrades (at least three of each) if in Realism mode .
+
+Bomb Stack and Detonator upgrades are highly advised if in Realism mode.
+
+Rocks can be found across the seafloor above where the Cave Shark is found. Bombats are found throughout the central Caverns, including in the area around the Cave Shark, which makes attracting one easy as long as you have a rock on your line beforehand. After this, you must lead your line into the Cave Shark's lair and attract its attention.
+
+Using Bombs instead of Rocks and the Detonator upgrade makes the fight much easier as detonating a bomb while the Cave Shark is on the line will stun it and allow you to reel it for awhile. Usually a Bombat will set off the bomb if it bites however if the bombat is eaten before that happens it won't activate the bomb. But you can catch that fish without grab bombs in realism mode, but thats very hard.
+
+Once hooked, the Cave Shark is an extremely challenging catch in Realism mode that requires a lot of patience. It will lead itself out of the Caverns, and the player must stop it catching itself on the floor. Once out of the Caverns it will repeatedly attempt to snag the line on the same section of seafloor. Reel aggressively, and use the boat while reeling to pull the Cave Shark away from the seafloor where it is trying to snag the line. It will (eventually) tire.
+
+Bugs [ ]
+
+The Cave Shark tends to behave very oddly if you try to lure it out of it's cave with the bombat, the cave shark will start to move extremely slowly and try to go back to it's dome after it leaves it, it will still try to follow your bait while in the dome, albeit it with extremely slow moving and turning speed. However, it will never bite your bait, requiring a restart to fix.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Sea_Caverns =====
+# Sea Caverns
+The Sea Caverns are the deep caves under the Bay and The Open Sea where many fish live, requiring higher-level rods to even reach and a Sinker rod upgrade or flick to properly navigate.
+
+Exploration of the Caverns is impossible without the use of a Lightbulb (which is unlocked by catching an intact Bulbfish ).
+
+Map of the caves under The bay and The Open Sea
+
+Contents
+
+1 Sub-regions
+
+2 Fish
+
+2.1 Small fish
+
+2.2 Medium fish
+
+2.3 Large fish
+
+2.4 Huge fish
+
+Sub-regions [ ]
+
+Bay caves. Located directly below the player's starting area, the Bay . The highest region of the Caverns, and easily reached with a Sinker lure. It is necessary to move forwards and backwards to successfully pull fish out of the Bay caves, and so requires the use of a boat.
+
+The Nightfish Sire cave. Below and slightly to the east of the Bay caves, the Nightfish Sire cave can be found. This is a single large, circular cavern usually filled with 3-4 Nightfish Sire , and occasionally Nightfish . Directly above the entrance to this cave, the Explorer hat can be found.
+
+Central cavern. The largest internal section of the western Caverns, a semicircular chamber with a large opening in the ceiling. It is located to the east of the Bay caves and the Nightfish Sire cave, and west of the chasm. It also opens into the Cave Shark's lair. The floor of the central cavern sits at the maximum depth of the Master Rod without upgrades. Bonefish are found on the floor here.
+
+Cave Shark's lair. A small chamber west of the central cavern, below a rocky outcrop. Home to the elusive Cave Shark .
+
+The chasm. Sometimes called the ocean cleft or the basin (not to be confused with the coral basin). The chasm is a huge trench in the seafloor, immediately west of the reef wall. It goes down to maximum depth, although the walls continue down beyond the bounds of the map. Theoretically one of the deepest areas in the game. There is a small cave in the west wall that connects it to the central cavern.
+
+Fish [ ]
+
+The Caverns are home to a range of rare fish, some of which come up to the surface at night and during storms .
+
+Small fish [ ]
+
+Yang - In a small cave directly below the Bay, in a school of three.
+
+Yin - In the open water of the chasm, at Cavern level, in a school of three.
+
+Bombat - Lines the walls of the central caverns, can be lured out with bombs or rocks.
+
+Snobfish - sometimes following nightfishes
+
+Medium fish [ ]
+
+Snoutfish - In the upper sections of the Caverns west of the chasm, but may also follow other fish to the surface.
+
+Nightfish - Occasionally found in the Nightfish Sire cave, following Nightfish Sire around in groups of two or three. Also found in deep open ocean, and comes to the surface at night.
+
+Large fish [ ]
+
+Cavefish - Common, found in most parts of the caverns west of the reef wall. May come out of the caverns at night.
+
+Stankfin - Usually found in the Bay caves but can be found in other sections west of the reef wall as well.
+
+Nightfish Sire - Exclusively found in the Nightfish Sire cave.
+
+Thresher - Commonly in the large, open central cavern.
+
+Bonefish - Sleeps on the floor of the central cavern. Must be woken with a bomb.
+
+Gorbon - In the caves to the west of the chasm.
+
+Huge fish [ ]
+
+The Sea Caverns are home to only one Huge fish - the Cave Shark . It can be found in its lair west of the central cavern, and is regarded as one of the most difficult fish to catch on Realism mode .
+
+The Yang and Cavefish, in the Bay caves.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Fish =====
+# Fish
+Fish are the primary fauna in Cat Goes Fishing , recorded in the Catalog . Fish can be found in all regions of the world map, such as the Bay , Coral Reef , Caverns , and Silo . They can be caught and sold, or turned into bait for larger fish.
+
+When you are reeling in Small or Medium fish, pieces of your catch can be stripped off and eaten by larger fish, leaving bare bones after three bites. Normally, bones are worthless, but if you are wearing the Bones hat , they are worth twice as much as an intact fish.
+
+Contents
+
+1 Small Fish
+
+2 Medium Fish
+
+3 Large Fish
+
+4 Huge Fish
+
+Small Fish [ ]
+
+The smallest size category of fish is Small. Small fish can be hooked by any size of bait, and as such are the only fish that will not steal small bait off the hook. They can be blocked from eating Large bait using the Bait Guard rod upgrade. When thrown back in the water, they create medium bait.
+
+Most Small fish will leave when night comes, and return the next morning.
+
+Name
+
+Catalog Description
+
+Value
+
+Rarity
+
+Cuddlefish
+
+"This fish lives near the shore and is the ideal target for novice fishercats."
+
+$50
+
+Common
+
+Snobfish
+
+"These lonely fish have a hard time making friends."
+
+$50
+
+Common
+
+Swooper
+
+"This purple fish swims in a predictable swooping pattern."
+
+$200
+
+Common
+
+Roundfin
+
+"This simple fish swims in a small circular pattern."
+
+$400
+
+Common
+
+Kingfish
+
+"This fish and his kin follow their magnificent queen ."
+
+$350
+
+Common
+
+Gallina
+
+"The Gallina are skittish. They swim in scattered schools surrounding larger fish."
+
+$900
+
+Common
+
+Skitter
+
+"A common Skitter will spontaneously mutate if the flock's alpha is lost."
+
+$1,400
+
+Common
+
+Red Skitter
+
+"The alpha Skitter hides behind his flock for safety."
+
+$12,000
+
+Exotic
+
+Ember
+
+"This fish swims around in the cool waters of the bay."
+
+$5,500
+
+Exotic
+
+Tangfin
+
+"The treasured Tangfin is prized for its golden scales."
+
+$3,200
+
+Exotic
+
+Tetra
+
+"Tetra swim in large schools, covering a large swath of the sea as they evade the belligerent Bagu ."
+
+$4,800
+
+Exotic
+
+Tappy
+
+"Tappy follow boats in deep, scattered schools."
+
+$2,800
+
+Exotic
+
+Trillow
+
+"These peculiar, blue fish swim in a large circle. They are exceptionally fast and easily startled."
+
+$3,200
+
+Exotic
+
+Bulbfish
+
+"Fields of Bulbfish light up the dark depths. Catching one intact allows you to harness their light."
+
+$4,200
+
+Exotic
+
+Pink Kisser
+
+"The Pink Kisser's large lips are easy to hook. These fish live in the coral reef among other small tropical fishes."
+
+$9,800
+
+Exotic
+
+Garder
+
+"The Garder patrol the coral reef. They tend to bite the bait before it can reach more valuable fish."
+
+$2,200
+
+Common
+
+Bombat
+
+"These curious creatures live in the caverns. They will attempt to eat anything spherical. Defused if bitten."
+
+$100
+
+Exotic
+
+Skrimp
+
+"These scrumptious Skrimps can be found huddled together in the depths. They are exceptionally useful as live bait."
+
+$100
+
+Common
+
+Baby Sizzer
+
+"These younglings depend on the larger Sizzer for protection."
+
+$8,400
+
+Exotic
+
+Celad
+
+"The green Celad swim along the coral reef, using the weeds as natural camouflage."
+
+$13,000
+
+Exotic
+
+Inno
+
+"The Inno live in the coral reef. They don't put up a fight if hooked."
+
+$12,000
+
+Exotic
+
+Pennyfin
+
+"Pennyfin live in the coral reef. They instinctually dive down once hooked, but lack the stamina to fight for very long."
+
+$11,500
+
+Exotic
+
+Puff
+
+"Known as Shieldfish in ancient times, the Puff's toxin temporarily stuns fish on touch, though most larger fish will shake off the effects."
+
+$800
+
+Exotic
+
+Yin
+
+"The Yin is found in caves far from shore. It will not take the bait until it finds balance."
+
+$64,000
+
+Exotic
+
+Yang
+
+"The Yang is found in caves near the shore. It will not take the bait until it finds balance."
+
+$64,000
+
+Exotic
+
+Clownfish
+
+"Once thought to be extinct, the secluded Clownfish is quite a valuable catch."
+
+$40,000
+
+Exotic
+
+Angle
+
+"These non-luminous cousins of the Bulbfish live in the basin east of the coral reef."
+
+$27,000
+
+Exotic
+
+Sassy
+
+"Sassy live near seaweed in the depths using their green scales to hide."
+
+$850
+
+Exotic
+
+Skiggle
+
+"Skiggle live in the basin east of the coral reef,"
+
+$24,000
+
+Exotic
+
+Dire Trillow
+
+"This larger species of Trillow swim in large circles east of the coral reef."
+
+$18,000
+
+Exotic
+
+Purdy
+
+"The Purdy swim along the ocean floor in the basin past the coral reef."
+
+$125,000
+
+Exotic
+
+Hue
+
+"This fish's scales are a translucent blue, granting it a bright magenta color."
+
+$22,000
+
+Exotic
+
+Sea Jeepy
+
+"The Sea Jeepy lives in the basin east of the coral reef."
+
+$16,500
+
+Exotic
+
+Casper
+
+"Despite his slow speed, this fish will follow the lure great distances."
+
+$80,000
+
+Exotic
+
+Phase
+
+"This fish exists in two out-of-phase halves, producing an odd stereoscopic effect. Combining research with the Abyssal leads to advancements in technology."
+
+$50,000
+
+Exotic
+
+Chaw
+
+"These pesky fish live at the surface of the water above the silo and can sense bait from great distances."
+
+$500
+
+Common
+
+Babyjaw
+
+"This smaller form of the Yellowjaw is considered a delicacy."
+
+$24,000
+
+Exotic
+
+Swisher
+
+"Lives on the ocean floor just past the coral basin."
+
+$9,000
+
+Exotic
+
+Gnawer
+
+"This recently discovered fish lives in the caves under the coral basin."
+
+$6,000
+
+Exotic
+
+Rana
+
+"These small, aggressive fish have recently appeared in the caves under the coral basin."
+
+$9,000
+
+Exotic
+
+Snuggler
+
+"Once abundant, the population of this distant cousin of the Cuddlefish has decreased significantly in recent years."
+
+$1,400
+
+Common
+
+Jackfish
+
+"Little is known about this recently discovered species. It lives deep under the coral basin."
+
+$12,000
+
+Common
+
+Crystalfish
+
+"This unique fish consumes trace elements from the mineral rich water in the caverns, developing large crystals on its back."
+
+$500,000
+
+Exotic
+
+Conpas
+
+"This fish aligns to point at deposits of valuable metal."
+
+$500
+
+Common
+
+Tim
+
+"This fish lives in the deep sea above the silo, emitting a soft white glow. It's believed it lives in some sort of symbiosis with a much larger fish."
+
+$12,000
+
+Common
+
+Rodi
+
+"This carefree juvenile fish enjoys the protection of its caring parent. It swims happily with its sibling. It has a calm nature."
+
+$50,000
+
+Exotic
+
+Lav
+
+"This carefree juvenile fish enjoys the protection of its caring parent. It swims happily with its sibling. It has an aggressive nature."
+
+$50,000
+
+Exotic
+
+Maize
+
+"This little gray fish navigates the labrynths [sic] under the plateau."
+
+$400,000
+
+Exotic
+
+Flechette
+
+"These fish swim in a school around a Rogachev, they are in a symbiotic relationship."
+
+$1,000
+
+Exotic
+
+Thermo
+
+"These fish collect heat from geothermal vents and emit it slowly over time. They are attracted to differences in temperature."
+
+$40,000
+
+Exotic
+
+Fumer
+
+"These perpetually angry fish begrudgingly fight under the Ancient Kingfish's banner."
+
+$35,000
+
+Common
+
+Rare Fruit
+
+"This fish lives near the cheesefin [sic] in the long kelp of the plateau."
+
+$23,000
+
+Exotic
+
+Lil Cheesefin
+
+"This little fish lives in the distant kelp, and doesn't stray far from the elder of its kind."
+
+$12,000
+
+Common
+
+Orwellian
+
+"This weird fish appears to be unable to swim, laying peacefully on the rocks of the plateau."
+
+$70,000
+
+Exotic
+
+Chrono
+
+"This small, elegant fish is attracted to anomalies in the space-time continuum."
+
+$240,000
+
+Exotic
+
+Remi
+
+"These shy cave fish swim alone in the labrynth [sic], avoiding the feens."
+
+$52,000
+
+Common
+
+Feen
+
+"These colorful and friendly fish swim in the labrynth [sic], avoiding the remi."
+
+$80,000
+
+Common
+
+Newk
+
+"This colorful fish hides in little crevices. Dunkan seems to be attached to this fish and protects it fiercely."
+
+$420,000
+
+Exotic
+
+Spec
+
+"This ghastly little fish lives in the deepest caves under the plateau, its skeleton always visible."
+
+$120,000
+
+Exotic
+
+Centy
+
+"These fish share a recent common ancestor with the snobfish. However, they appear to have evolved to work together and swim in single-file formation."
+
+$50,000
+
+Common
+
+Medium Fish [ ]
+
+The next-largest size of fish, Medium fish will eat hooked Small fish and must be caught using medium or large bait. They will steal small bait if they are able to bite it. When thrown back in the water, they create large bait.
+
+Name
+
+Catalog Description
+
+Value
+
+Rarity
+
+Mustardfish
+
+"Mustardfish are abundant. They make good bait for large fish and can be found ranging from shallow waters to the dark depths."
+
+$450
+
+Common
+
+Grumper
+
+"The Grumper is very territorial. Once he begins his lunge, he never relents."
+
+$800
+
+Common
+
+Beakfish
+
+"Once hooked, the Beakfish turns in response to tension on the line. Clever fishercats have been known to use this behavior to their advantage."
+
+$1,200
+
+Common
+
+Garump
+
+"The less solitary cousin of the Grumper , Garumps stick together in groups of tight schools."
+
+$5,000
+
+Exotic
+
+Leofish
+
+"Once hooked, the Leofish dives down into the depths."
+
+$6,600
+
+Exotic
+
+Bullfish
+
+"The Bullfish patrol the surface, trailing the wake of boats, waiting for an opportunity to eat."
+
+$1,600
+
+Exotic
+
+Sizzer
+
+"The clever Sizzer uses his sharp beak to snap fishing lines."
+
+$3,800
+
+Exotic
+
+Stormy
+
+"This energetic fish explores the surface only during thunderstorms."
+
+$38,000
+
+Exotic
+
+Bleaper
+
+"These daysleepers are keen hunters in the evening light. They feed on flying bugs and have been known to steal bait out of the air."
+
+$6,500
+
+Exotic
+
+Queenfish
+
+"The beautiful Queenfish swims in cool waters, surrounded by a school of her faithful Kingfish ."
+
+$2,500
+
+Exotic
+
+Sibilfin
+
+"This speedy fish darts about the sea, fleeing the Turgeon , his relentless predator."
+
+$18,000
+
+Exotic
+
+Gawker
+
+"The nearly blind Gawker doesn't eat much; instead waiting for his food to come to him."
+
+$8,400
+
+Exotic
+
+Curby
+
+"Curby are highly social and extremely curious. They traverse the sea in a swarm, stopping to investigate interesting fish."
+
+$5,600
+
+Exotic
+
+Sourfish
+
+"Sourfish will begin lunging from a distance, but they aren't very fast and are accordingly easy to avoid."
+
+$6,800
+
+Exotic
+
+Stalker
+
+"These odd creatures are shunned by most; they follow the most powerful fish they can find, simply hoping to be safe."
+
+$26,000
+
+Exotic
+
+Nightfish
+
+"At night, this fish rises from the depths, luring a flock of lonely Snobfish into the caverns before dawn."
+
+$17,500
+
+Exotic
+
+Lumina
+
+"This luminous fish is found in the deep ocean, only visiting more shallow water under the cover of darkness."
+
+$12,000
+
+Exotic
+
+Kernel
+
+"This fish swims in the weeds near the coral tree."
+
+$3,000
+
+Common
+
+Spallow
+
+"The Spallow roam far and wide. but they are often found playing with schools of Skitter."
+
+$8,600
+
+Exotic
+
+Snoutfish
+
+"The curious Snoutfish lives in the caverns, only ascending to clean the mouths of larger fish."
+
+$34,500
+
+Exotic
+
+Carver
+
+"These fish carve away at the ocean floor, forming a cavernous ecosystem for other fish to inhabit."
+
+$2,100
+
+Common
+
+Lionfish
+
+"The picky Lionfish lives along the coral reef. It won't eat anything but live bait."
+
+$8,700
+
+Exotic
+
+Crayfin
+
+"The yellow-bellied Crayfin depends on its Chompy . He is a cautious creature, impossible to catch without showing a gesture of trust."
+
+$34,500
+
+Common
+
+Blissy
+
+The Blissy swims in a staccato fashion above and to the east of the coral reef."
+
+$12,000
+
+Exotic
+
+Wombler
+
+"The yellow Wombler vigorously shakes its tail to ward off larger fish."
+
+$18,000
+
+Exotic
+
+Bo
+
+"This odd fish is prized for a unique endogenous hormone that induces a state of delirious calm when ingested."
+
+$160,000
+
+Exotic
+
+Cavin
+
+"This fish swims the length of the caverns beneath the ocean floor."
+
+$60,000
+
+Exotic
+
+Yellowjack
+
+"The Yellowjack live above the coral reef, preventing exotic fish from east of the coral reef from swimming inland."
+
+$2,200
+
+Exotic
+
+Spinefish
+
+"The ravenous Spinefish live above the basin east of the coral reef, ready to steal your bait."
+
+$4,500
+
+Exotic
+
+Bitterfish
+
+"This undesirable fish tastes bitter and is mostly useful as bait."
+
+$3,000
+
+Common
+
+Furrow
+
+"The population of this fish has recently been growing in the distant sea, above the silo."
+
+$12,000
+
+Common
+
+Yellowjaw
+
+"This fish lives above the silo in the distant sea. It is less valuable than the smaller form."
+
+$5,000
+
+Exotic
+
+Slimey
+
+"This peculiar fish is covered in a viscous slime. It has been spotted in deep waters above the silo."
+
+$14,000
+
+Exotic
+
+Lamby
+
+"This fish has recently increased in value after the species has begun to develop a faint glow."
+
+$18,000
+
+Exotic
+
+Glacier
+
+"The Glacier lives in the caverns under the coral basin. As one of the last available sources of ice, it is extremely valuable."
+
+$45,000
+
+Exotic
+
+Goldbeard
+
+"This fish is unremarkable other than its relative rarity. It lives in the distant sea above the silo."
+
+$250,000
+
+Exotic
+
+Sodafish
+
+"The Sodafish will steal your bait unless you give him something he truly desires."
+
+$1,500,000
+
+Exotic
+
+Ghast
+
+"This ghastly, [sic] looking fish occasionally swims up from the depths near the silo."
+
+$30,000
+
+Common
+
+Blooper
+
+"This fish can be found roaming far and wide. Though sometimes tricky to catch, it's an excellent bait fish when traversing the distant sea."
+
+$5,000
+
+Exotic
+
+Blossip
+
+"These colorful bottom feeders enjoy the sun tickling their backs. If they aren't responding, try bumping them with your boat."
+
+$5,000
+
+Exotic
+
+Akuma
+
+"The devilish Akuma traverses the entire sea, lurking on the cusp of darkness. It would rather be eaten than captured."
+
+$130,000
+
+Exotic
+
+Goldfish
+
+"This elusive fish has only been spotted by few lucky fishermen; its [sic] rarely in the same spot twice."
+
+$450,000
+
+Exotic
+
+Smarty
+
+"This highly intelligent fish is known to lure fishercats into snagging their tasty bait on the ocean floor."
+
+$120,000
+
+Exotic
+
+Bulbeater
+
+"This fish lives in the depths of the ocean, eating the bulbs of careless fishercats."
+
+$120,000
+
+Exotic
+
+Garm
+
+"This simple fish exhibits no interesting abilities or behaviors."
+
+$35,000
+
+Common
+
+Dijon
+
+"This fish exists peacefully in the kelp forest on the plateau, grazing on the seaweed growing there."
+
+$12,000
+
+Common
+
+Young Cusper
+
+"This small Cusper has yet to fully mature; it does not exhibit any extra-sensory capabilities."
+
+$5,000
+
+Exotic
+
+Cuda
+
+"This fish will grind your line with its teeth to snap it once it's hooked."
+
+$5,000
+
+Common
+
+Fin
+
+"This fish steadily swims the waters of the distant ocean at a very fast pace."
+
+$14,000
+
+Exotic
+
+Rogachev
+
+"This oddly-shaped fish sucks up its friends and launches them for protection; they share a symbiotic relationship."
+
+$450,000
+
+Exotic
+
+Bishop
+
+"This loyal fish protects the royal fish family, never sleeping and always ready to sacrifice its own life for their defence."
+
+$60,000
+
+Common
+
+Caval
+
+"This fish patrols the waters above the plateau when serving in the army of the Ancient Kingfish. Legends say it can create tornadoes."
+
+$60,000
+
+Common
+
+Mudback
+
+"This lazy fish lays on the cavern floor under the plateau, waiting for food to come to it."
+
+$70,000
+
+Common
+
+Primal Turgeon
+
+"This fish appears to be a relative of the larger Turgeon found near shore. He only lunges for live bait."
+
+$40,000
+
+Common
+
+Minute
+
+"This fish lives near chrono [sic], coordinating a slow, temporal dance."
+
+$24,000
+
+Exotic
+
+Swoosher
+
+"This incredibly ancient fish lives in caves, deep below the plateau."
+
+$82,000
+
+Common
+
+Zub
+
+"This fish appears to be inspecting the skeletons of long extinct species; it was able to be attracted by enticing it with Rare Fruit."
+
+$50,000
+
+Exotic
+
+Bramble
+
+"This close relative of the brimble [sic] is much more active, stopping small fish from straying into the plateau. It seems to be protecting something."
+
+$50,000
+
+Exotic
+
+Volteen
+
+"This fish is easily scared, and when startled it goes into hiding."
+
+$140,000
+
+Exotic
+
+Powerfin
+
+"This curious fish is always searching the map for secrets. I wonder what would happen if it had a tool to help it navigate?"
+
+$120,000
+
+Exotic
+
+Lumos
+
+"It's unclear how this fish is able to generate so much internal energy."
+
+$140,000
+
+Exotic
+
+Flash
+
+"This ancient relative of the swordfish speeds around the labyrinth, spearing unlucky small fish."
+
+$450,000
+
+Common
+
+Lindfin
+
+"This bug-eating fish only lunges when you're near their favorite hat."
+
+$150,000
+
+Common
+
+Trick
+
+"This festive fish appears during the time of shadows. It's luminous bulb seems to vary in intensity."
+
+$130,000
+
+Exotic
+
+Large Fish [ ]
+
+The second-biggest size of fish, Large fish will eat both Small and Medium fish that are dragged past them on a hook. They must be hooked using large bait. Large fish cannot be turned into bait, and if they are thrown back in the water they will simply swim away. Because of this, and because they are usually worth a lot of money, it is usually in a player's best interest to sell Large fish. There are two exceptions to this rule, however: the Chompy and the Josie .
+
+Name
+
+Catalog Description
+
+Value
+
+Rarity
+
+Cowfish
+
+"This lumbering fish sits around waiting for a snack to float past its face."
+
+$2,500
+
+Common
+
+Seraph
+
+"The Seraph goes mad when hooked, leaping from the water and even sometimes causing themselves to be caught."
+
+$5,800
+
+Exotic
+
+Catfin
+
+"The lithe and energetic Catfin are fairly common away from the shore."
+
+$6,500
+
+Exotic
+
+Turgeon
+
+"This predator lives to chase his prey, the Sibilfin . He fears the surface and will relentlessly fight if he sees the sun."
+
+$12,500
+
+Exotic
+
+Brimble
+
+"The Brimble feeds on scraps that fall from the edge of cliffs."
+
+$18,500
+
+Exotic
+
+Georgian
+
+"The Georgian's thick skin allows her to swim in deep waters, occasionally rising to the surface."
+
+$11,000
+
+Exotic
+
+Felish
+
+"The Felish prefers to swim in the cool waters of the dark depths, cutting paths through the Bulbfish fields. At night they explore the surface, using Lumina to light their way."
+
+$12,500
+
+Exotic
+
+Trumble
+
+"These timid blue fish live in deep waters but avoid entering complete darkness."
+
+$9,400
+
+Exotic
+
+Bagu
+
+"The energetic Bagu live very far from shore, though they occasionally swim inland to hunt smaller fish.
+
+$16,000
+
+Exotic
+
+Anglerfish
+
+"The Anglerfish's face is illuminated by its head lamp, a beacon in the dark depths."
+
+$25,000
+
+Exotic
+
+Stankfin
+
+"When threatened, the Stankfin climbs to the top of the caverns for safety."
+
+$26,000
+
+Common
+
+Ray
+
+"These fish inhabit the depths, cleaning the ocean floor as they stop to rest."
+
+$15,000
+
+Exotic
+
+Torby
+
+"Though extremely valuable, the Torby is on the brink of extinction. Fishercats are cautioned against overfishing this gentle giant."
+
+$100,000
+
+Exotic
+
+Nightfish Sire
+
+"The Nightfish Sires tend to their sanctuary in the caverns, waiting for their thralls to return with a Snobfish snack."
+
+$380,000
+
+Exotic
+
+Cavefish
+
+"The common Cavefish populate the caverns below the ocean floor, their yellow eyes adapted for life in the deep."
+
+$5,800
+
+Common
+
+Spotter
+
+"The large, orange Spotters live in deep water near the mouths of caves."
+
+$18,200
+
+Exotic
+
+Thresher
+
+"The territorial Thresher avoid narrow caverns, claiming large clefts in the ocean floor as their home."
+
+$24,000
+
+Exotic
+
+Koin
+
+"The Koin wander far and wide, collecting trace minerals from the sea to form a valuable deposit on their heads."
+
+$240,000
+
+Exotic
+
+Conga
+
+"The vibrant Conga dance among the coral, periodically careening in a subtle struggle for dominance."
+
+$8,800
+
+Exotic
+
+Gupper
+
+"The Gupper flock in the mid-sea basin, avoiding the more aggressive cavern fish."
+
+$16,000
+
+Exotic
+
+Swaller
+
+"The Swaller rarely come nearer to shore than the coral reef; their school can often be found roaming the distant ocean just above the dark depths."
+
+$16,000
+
+Exotic
+
+Tik Tik
+
+"The energetic Tik Tik dance in the distant sea, joyously leaping from the water in celebration of freedom."
+
+$8,500
+
+Exotic
+
+Lemonback
+
+"The solitary Lemonback lives in obscurity, hiding in the deepest and most distant caves."
+
+$34,000
+
+Exotic
+
+Santu
+
+"The Santu rarely stray from the ocean floor, inhabiting a narrow basin past the coral reef."
+
+$16,000
+
+Exotic
+
+Gorbon
+
+"The armored Gorbon inhabit the ocean cleft, catching food that the Thresher miss."
+
+$11,000
+
+Exotic
+
+Josie
+
+"This fish is rare and powerful, providing more experience than any other in the sea. Perhaps better to release upon catching it."
+
+$1,000,000
+
+Exotic
+
+Luifin
+
+"The Luifin wanders the distant sea, happily enjoying the company of her mate."
+
+$12,000
+
+Exotic
+
+Mizifin
+
+"The Mizifin wanders the distant sea, happily enjoying the company of his mate."
+
+$12,000
+
+Exotic
+
+Chompy
+
+"Transplanted up from the depths, the Chompy's vision is greatly diminished in the daylight. They depend on a Crayfin to scour for prey."
+
+$10,000
+
+Exotic
+
+Bonefish
+
+"Bonefish hibernate in the caverns below the ocean floor, waiting for something to disturb their slumber."
+
+$84,000
+
+Exotic
+
+Dragon Fish
+
+"The Dragon Fish lives in the basin east of the coral reef."
+
+$120,000
+
+Exotic
+
+Piercer
+
+"This fish primarily feeds on Chaw that it pierces with its horn."
+
+$80,000
+
+Exotic
+
+Thistle
+
+"The Thistle is covered in large protrusions. It was recently discovered in the distant sea above the silo."
+
+$140,000
+
+Exotic
+
+Lampis
+
+"The Lampis develops large glowing organs on the outside of its body, helping it survive on the edge of darkness above the silo."
+
+$250,000
+
+Exotic
+
+Geiger
+
+"One of the few remaining fish in the deep sea near the silo, the Geiger is wanted by science cats for further study."
+
+$60,000
+
+Exotic
+
+Germ
+
+"Only one of this fish has ever been discovered, and little is known about it."
+
+$220,000
+
+Exotic
+
+Mamo
+
+"Guards its nest in the caverns under the coral basin, though a Mamo egg has never been observed hatching. "
+
+$15,000
+
+Exotic
+
+Ghost
+
+"The Ghost is the corporeal spirit of a now extinct fish. It only appears when the veil is thin.
+
+$100,000
+
+Exotic
+
+Blue Cusper
+
+"Like all Cusper, this fish possesses some form of extra-sensory perception."
+
+$12,000
+
+Exotic
+
+Old Cusper
+
+"This seemingly sightless specimen resembles the common Cusper, perhaps some variant that persists in a state of perpetual, gradually diminishing senescence."
+
+$58,000
+
+Exotic
+
+Cuddlecanth
+
+"This fish lives in the deep caves under the coral basin; it was presumed extinct until a few samples were isolated."
+
+$220,000
+
+Exotic
+
+Buffalofish
+
+"The fish appears to be the distant ancestor of the Cowfish, it is easily startled by explosions. When startled it will charge frantically."
+
+$125,000
+
+Common
+
+Twohead
+
+"This mentally challenged fish appears to be uninterested in food, but its mouth is wide open."
+
+$100,000
+
+Exotic
+
+Rodilav
+
+"This fish protects its children and keeps a close watch on them, but it can't be everywhere at once."
+
+$300,000
+
+Exotic
+
+Great Carver
+
+"These fish swim in spiraling motion, carving out caves so big they collapse on themselves in an endless cycle."
+
+$300,000
+
+Exotic
+
+Magmer
+
+"This superheated fish will quickly melt your line unless you cool it off with heavy ice, it heats itself in the scorching magma in the deepest caves."
+
+$600,000
+
+Exotic
+
+Elder Mustardfish
+
+"This mature mustardfish swims deep in the distant ocean, fighting against the strong currents there. Evidence suggests it recently migrated to the area."
+
+$4,500
+
+Common
+
+Ancient Kingfish
+
+"This powerful fish built a powerful army to serve under his banner, and took over huge regions in the ocean. Only one has ever been seen."
+
+$1,000,000
+
+Common
+
+Regina
+
+"The self-proclaimed queen of all fish, bannished [sic] for her tyranny, now serves as the Ancient Kingfish's most loyal companion."
+
+$700,000
+
+Exotic
+
+Chook
+
+"This fish was selectively bred by the Ancient Kingfish, developing over time into a hulking, servile barrier that serves under His [sic] banner."
+
+$100,000
+
+Common
+
+Yellow Carp
+
+"These fish swim in schools in the most distant waters past the plateau."
+
+$320,000
+
+Common
+
+Elder Cheesefin
+
+"This hulking fish isn't literally made of cheese, but it certainly smells like it."
+
+$32,000
+
+Common
+
+Paladin
+
+"This fish is named after its supposed resemblance to an armored knight, but some suspect it is actually a semi-biological probe sent from a neighboring star system."
+
+$160,000
+
+Exotic
+
+Primitive
+
+"This fish is quite unrelated to any other species, though it appears to be not too distantly related from some common ancestor, making its existence a temporal curiosity."
+
+$220,000
+
+Exotic
+
+Mossy
+
+"This fish is covered in a thin layer of plant matter, helping it hide among the kelp fields of the plateau."
+
+$150,000
+
+Exotic
+
+Tart
+
+"The Tart lives near the Lindfin, ready to snap the line when you hook them."
+
+$56,000
+
+Exotic
+
+Bombig
+
+"This large relative of the common bombat can quickly pull water through its mouth to inhale little fish."
+
+$320,000
+
+Exotic
+
+Huge Fish [ ]
+
+Huge fish are the ultimate prize of any discerning fishercat - the largest, rarest and most powerful creatures in the sea. They will only take large bait, and in addition require special hook lures to catch successfully (with the exception of the Cave Shark, Swordfish, Dragon and Problematicus). Most Huge fish also have special catching requirements, such as requiring a specific fish be used as bait to catch them. All of them are Exotic, meaning that you will get a bonus if you sell them.
+
+Name
+
+Catalog Description
+
+Value
+
+Rarity
+
+Image
+
+Shark
+
+"The Shark will shred a fish on the end of your line, dragging your line deeper in the process,"
+
+$64,000
+
+Exotic
+
+Tiger Shark
+
+"The Tiger Shark lives far from the shore. He exhibits exceptional endurance and speed."
+
+$85,000
+
+Exotic
+
+Swordfish
+
+"The Swordfish uses his long nose to spear small fish once they are hooked."
+
+$180,000
+
+Exotic
+
+Noctis
+
+"This intelligent titan emerges at night, policing the sea with his powerful presence."
+
+$250,000
+
+Exotic
+
+Moga
+
+"The Moga never tires and never sleeps. He can easily snap a weak line. Accustomed to darkness, he fears the light."
+
+$180,000
+
+Exotic
+
+Cave Shark
+
+"The Cave Shark spends most of its existence in silent reflection, subsisting only on the occasional stray Bombat ."
+
+$800,000
+
+Exotic
+
+Maw
+
+"The massive Maw lurks in the depths, feeding on the Bulbfish that thrive there."
+
+$450,000
+
+Exotic
+
+Hamahed
+
+"The Hamahed lives in the far east basin. He will thrash against coral to snag your line and escape."
+
+$150,000
+
+Exotic
+
+Abyssal
+
+"It's believed that the Abyssal's incredible size and speed may be the result of exposure to radiation. Requires a mega hook to catch."
+
+$800,000
+
+Exotic
+
+Dragon
+
+"The Legendary Dragon is primarily ovivorous. He is highly sensitive to high frequency sound waves."
+
+$1,500,000
+
+Exotic
+
+Magnalav
+
+"Though once thought to be a myth, it seems its eventual discovery was only a matter of time."
+
+$820,000
+
+Exotic
+
+Shaku
+
+"Don't be deceived by the stern expression of its false eye; this soft and solitary shark spends most of its life lying flat, sleeping peacefully on the ocean floor."
+
+$780,000
+
+Exotic
+
+Dunkan
+
+"This huge fish ravages the local landscape. Its tough armour makes it resistant to bombs, but it's not so tough."
+
+$1,000,000
+
+Exotic
+
+Great Cusper
+
+"The great cusper seems to be a mutated blue cusper who has unlocked some dormant ancient genes."
+
+$500,000
+
+Exotic
+
+Problematicus
+
+"This behemoth lives in the furthest reaches of the sea. Enticing him to bite takes a delicious worm."
+
+$990,000
+
+Exotic
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/The_Silo =====
+# The Silo
+The Distant Ocean , also known as the Silo , lies on the eastern end of the map, beyond the Coral Reef and the Drop-Off . It is a mysterious, eerie stretch of open water above the entrance to an abandoned nuclear silo, and one of the deepest areas in the game.
+
+Around the waters of the Silo is a radar jammer which makes your sonar useless, unless you have unlocked the Tech Boat , because it penetrates radar jammers.
+
+Contents
+
+1 Sub-regions
+
+1.1 Shallow Silo
+
+1.2 Deep Silo
+
+2 Fish
+
+2.1 Small fish
+
+2.2 Medium fish
+
+2.3 Large fish
+
+2.4 Huge fish
+
+Sub-regions [ ]
+
+Shallow Silo [ ]
+
+The waters above the deep Silo, closer to the surface. The vast majority of the fish in this region can be found here.
+
+Deep Silo [ ]
+
+Lies at the lower limit of the map. Using a Lightbulb lure, the entrance to the nuclear silo can be seen in the darkness.
+
+Fish [ ]
+
+The Silo's waters contain a large number of unique fish.
+
+Small fish [ ]
+
+Chaw - Swims in large schools and swarms bait.
+
+Snuggler - In the outer areas of the Silo, where Chaw spawn less frequently.
+
+Babyjaw - In the upper waters, follows Yellowjaw in groups of two or three.
+
+Tim - In the Deep Silo, swimming at small groups.
+
+Medium fish [ ]
+
+Bitterfish - Above the Silo at most depths, from the midwaters down.
+
+Furrow - Above the Silo at most depths, from the shallower waters down.
+
+Yellowjaw - In the upper waters above the Silo.
+
+Slimey - In the Deep Silo, often close to the seafloor.
+
+Lamby - In the Deep Silo, often close to the seafloor.
+
+Goldbeard - Usually swims beyond boat range, at the very edges of the map in the shallower waters.
+
+Ghast - In the Deep Silo, often close to the seafloor and close to the Silo cliff wall.
+
+Sodafish - Usually swims beyond boat range, at the very edges of the map in the midwaters.
+
+Powerfin - Usually in medium depth near the center of the Silo.
+
+Zub - Deep down and to the left of the Silo in the Fossil Area.
+
+Large fish [ ]
+
+Piercer - In the shallows and mid-ocean waters.
+
+Thistle - In the deep to mid-ocean waters.
+
+Lampis - In the Deep Silo, slightly higher than Geiger.
+
+Old Cusper - In the Deep Silo, near or around Germ 's den.
+
+Geiger - In the waters directly over the submerged door to the nuclear silo itself.
+
+Huge fish [ ]
+
+Abyssal - Found far down in the Deep Silo, and is elusive despite its size. It requires the Mega Hook to catch.
+
+Magnalav - A mysterious fish that rests in the distant ocean past the silo and out of reach without using the tech boat, unless one of the multiple methods of making it appear are used.
+
+Great Cusper - A mutated Cusper that will slowly seek out Large Bait when in the water for long enough.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Tim =====
+# Tim
+Normal: "This fish lives in the deep sea above the silo, emitting a soft white glow. It's believed it lives in some sort of symbiosis with a much larger fish."
+
+Endangered: "This fish lives in the deep sea above the silo, emitting a soft white glow. Its population is dwindling."
+
+Extinct: "This extinct fish used to live in the deep sea above the silo, emitting a soft white glow."
+
+Tim
+
+Normal
+
+Halloween
+
+Size
+
+Small
+
+Rarity
+
+Normal
+
+Sell Price
+
+$12.000
+
+Location
+
+The Silo
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching Guide
+
+Statistics [ ]
+
+Tim is a fish that was added in the Ancient Ancestors update. It is a small fish that has a white, glowing body with grayish fins. Near Halloween, it dons a top hat. It lives in the dark waters of the silo, easily spotted thanks to its white glow. Tim is used to catch Bulbeater . In description much larger fish is Maskfish
+
+Location [ ]
+
+A group of 5 Tims is located in the deep waters of The Silo , above the Geiger but below Lampis and Thistle . Its description hints at the Huge fish that might also swim in the same area.
+
+Catching Guide [ ]
+
+In order to catch Tim, you need to have a small bait and preferably a lightbulb or Sonar, using the Tech Boat .
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Noxius =====
+# Noxius
+Normal : This toxic little fish lives near the silo. He's completely uninterested in the hook.
+
+Extinct : This toxic little fish used to live near the silo. He was completely uninterested in the hook . He is now extinct.
+
+Noxius
+
+Size
+
+Small
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$400.000
+
+Location
+
+The Silo
+
+Statistics [ ]
+
+Noxius is a Small fish that has coffee color fins and a brown body with green hair. It was added in August 13th hotfix. Noxius is a secret fish and won’t show up in the catalog until caught.
+
+Noxius can be found above the Silo. It can be seen at the bottom corner of the sonar but will run away.
+
+Catching Guide [ ]
+
+Noxius cannot be caught normally, or with the hook at all. Rather, Swimming is necessary to grab it. Bringing Bulbfish over to The Silo for this is extremely helpful. The Witchy hat's sour potion is very useful in catching Noxius as once drank, you dont lose any 02 by swimming. Blowing up every fish in the area is also recommended as they can bite Noxius on the way up. Once you have grabbed Noxius you have to go up to the surface with him, make sure you have enough 02 by using all of your Bulbfish. Once you are near your boat, just press Q and Noxius should be on your rod.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Magnalav =====
+# Magnalav
+Before catch: "Though once thought no more than myth, this marvelous beast indeed exists. Swimming with large bait attracts it."
+
+After catch: "Though once thought to be a myth, it seems its eventual discovery was only a matter of time."
+
+Extinct: "Did you really think this would work? I already told you, it's a myth. Nothing more than a myth, I'm sure."
+
+Time traveling with the game open: "For a moment, cat stopped and pondered the implications of time travel. The Magnalav will appear above the Silo for 2 hours on 17.08.2022 at 3:12:22 UTC!"
+
+Statistics [ ]
+
+Magnalav
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$820,000
+
+Location
+
+Drop-Off and Open Ocean
+
+The Magnalav is a Huge fish with a lumpy purple body and rounded fins. It is fat like an egg. Originally added as part of the 2019 Halloween update in a buggy state, it was removed and later added back in with the August 2022 update. In the 2023 Ancient Ancestors update, its approach conditions were changed, and it became easier to attract.
+
+Location [ ]
+
+The Magnalav can be found anywhere in the ocean, as long as you aren't at shore it will slowly make it to your boat. It will appear on the player's Sonar if they remain still for some time. However, it will quickly disappear if the player makes any movements.
+
+Catching Guide [ ]
+
+The Magnalav's behavior is complex and very involved. There are 2 proven ways of catching the Magnalav as of now.
+
+You need to idle for a while and wait for it to appear on your Sonar. This can be accomplished at any part of the map. Once it appears, you should lightly tap your movement, ensuring that it is not too much that it goes into the depths, until you arrive back at the shore. Once back at the shore, you must un-equip the boat. The Magnalav will not swim away if you throw your bait. You will need a mega hook and a large bait. You should also unequip Sinker , as the Magnalav approaches very slowly towards bait.
+
+The second method involves changing your time, which allows catching the Magnalav on your boat. Change it to the 31st of October, 2019 at 19:15, and go to The Silo . There appears to be a glitch where setting your time to any time before the release date of Cat Goes Fishing also triggers the spawning of the Magnalav, however, this needs to be tested further and/or confirmed by the developer to be intentional. The Magnalav will shoot up from the ground and follow your boat. Repel is needed for Bloopers and Old Cuspers , however if you use a trawler the bloopers will get caught in that instead. The player cannot have the Sinker equipped. Then cast your bait down. The Magnalav will slowly come towards your bait as long as you do not flick, move, or reel in. Once it gets sufficiently close, change your time back to the present, and it will hook.
+
+Fun fact: it takes very loooooong for him to break your line, so if you dont see how broken the line is dont worry.
+
+The Magnalav teasing the player by appearing on the sonar after the player hasn't moved their boat for a while.
+
+The Magnalav stuck on some rocks at the seafloor.
+
+Magnalav slowly approaching bait in the darkness (click image to see it better)
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Repel =====
+# Repel
+Repel
+
+Effect
+
+Only available if there is a fish on your rod. This species will be more likely to ignore your lure. This stacks up to 3 times.
+
+Unlock
+
+Level 11
+
+Purchase Cost
+
+Basic Rod
+
+$300
+
+Good Rod
+
+$300
+
+Power Rod
+
+$500
+
+Quick Rod
+
+$1,200
+
+Great Rod
+
+$4,500
+
+Master Rod
+
+$6,400
+
+Blissy's lunge range (No Repel)
+
+Blissy's lunge range (1 Repel)
+
+The Repel is a rod upgrade , that makes the species that you have attached on the upgrade be less attracted to your lure. This stacks up to 3 times. It is the opposite of the Attract . You cannot have both Repel and Attract at the same time,
+
+Usefulness [ ]
+
+The Repel is useful in many cases. One of them being with the Magnalav , since it's so slow and mostly in the depths it can help with the Old Cusper's not snatching your bait while you slowly wait for the Magnalav to bite your lure.
+
+Some fish take more Repel upgrades to fully avoid, however some only take one or two like the Blissy .
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Boats =====
+# Boats
+Boats are the main form of transport in Cat Goes Fishing . They are purchased from the Boat Shop, which is unlocked at Level 8. The boat you have determines the distance you can travel across the map.
+
+When the player moves out to sea, they cannot sell fish directly. Instead, fish must be thrown backwards into the boat, where they are stored. Caught fish can be sold in bulk once the player returns to shore.
+
+Boats do not have to be purchased in order of price or quality.
+
+Contents
+
+1 Basic Boat
+
+2 Good Boat
+
+3 Speedboat
+
+4 Dark Boat
+
+5 Luxury Boat
+
+6 Collier
+
+7 Tech Boat
+
+Basic Boat [ ]
+
+A slow moving boat that can't travel far from shore.
+
+The first boat available to a new player, the basic boat cannot travel very far from shore. It can hold a maximum of 5 fish.
+
+The Basic Boat is purchased from the Boat Shop for $35,000.
+
+Good Boat [ ]
+
+An improved boat that holds up to eight fish,
+
+The Good Boat can travel further than the Basic Boat, allowing the player to reach the Open Ocean . It moves at approximately the same speed as the Basic Boat, and can hold a maximum of 8 fish.
+
+The Good Boat is purchased from the Boat Shop for $120,000.
+
+Speedboat [ ]
+
+Travels faster than other boats but holds fewer fish.
+
+The Speedboat travels further than the Good Boat, reaching approximately the midpoint of the Open Ocean. It moves faster than either the Basic Boat or the Good Boat, but can only hold a maximum of 6 fish.
+
+The Speedboat is purchased from the Boat Shop for $240,000.
+
+Dark Boat [ ]
+
+Decreases battery drain on Lightbulbs by half!
+
+The Dark Boat travels further than the Speedboat, and is able to reach almost to the reef wall. It moves at approximately the same speeds as the Basic Boat and Good Boat, but as an added bonus it causes the Lightbulb timer to count down slower, extending the duration. It can hold a maximum of 6 fish.
+
+The Dark Boat is purchased from the Boat Shop for $360,000.
+
+Luxury Boat [ ]
+
+Travels quite far but isn't very fast.
+
+Prior to the Halloween 2019 update, the Luxury Boat was the best boat in the game. It moves at approximately the same speeds as the Basic Boat and Good Boat, but travels much further than either and is able to reach the Coral Reef . It can hold a maximum of 8 fish.
+
+The Luxury Boat is purchased from the Boat Shop for $720,000.
+
+Collier [ ]
+
+Travels quickly and holds many fish.
+
+The Collier was, before the release of the Tech Boat, the best boat in the game, and was added during the Halloween 2019 update. It moves at the same speed as the Speedboat but has a vastly superior range to any previous boat, allowing the player to reach as far as The Silo . It can hold a maximum of 16 fish.
+
+The boat's name "O.R.P KUWETA KOTA" is a reference to a polish Cat Goes Fishing youtuber Mandzio that popularized it in the polish community and is mentioned in the credits.
+
+The Collier is purchased from the Boat Shop for $1,500,000.
+
+Tech Boat [ ]
+
+Penetrates sonar jammers.
+
+The Tech Boat allows the use of sonar in The Silo area and beyond to the Plat eau and Furthest Ocean , without any interference. It holds 16 fish and travels further and faster than the Collier.
+
+The Tech Boat can be purchased from the Boat Shop for $5,000,000 after you have caught the " Phase " introduced in the "Ancient Ancestors" update and the " Abyssal ".
+
+basic boat without background
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Unimplemented_Content =====
+# Unimplemented Content
+This page contains content that isn't found in the game by normal means, and has been discovered through datamining/save manipulation and exploration of the game's files. This includes unused or removed fish sprites, other miscellaneous stuff and items that are currently unobtainable.
+
+Things listed on this page will most likely not be implemented at some point in future updates.
+
+This page is meant to be used for preserving unused content, please don't do major overhauls to this page without asking.
+
+Contents
+
+1 Unused Fish
+
+2 Unused Hats
+
+3 Unused Coral/Decoration
+
+4 Other Unused/Unimplemented Content
+
+Unused Fish [ ]
+
+Picture
+
+(File) Name
+
+Notes
+
+Rojo
+
+This red beast is considered to be a Huge, its red inflated body and spiky thorns resemble the Boom Puff, Its name has recently been confirmed to be Rojo. Due to its location in the sprites, it's considered to supposed to have been located somewhere in the Caves near The Silo.
+
+Stonefish
+
+This dark fish has 3 honeycomb shapes on its head, it is believed to be located in the Chasm.
+
+Elder / Regular Gorfin
+
+This old red fish is a Large fish around the size of the Elder Mustardfish . The location of this fish is unknown, its sour eyes might be due to the Silos interference. It also has a smaller version of itself.
+
+Smiley
+
+This Zombie fish has the same body shape as the Moga. It has an opening mouth animation similar to how the Dragon's mouth opens when it gets closer to your bait.
+
+Plumbfish
+
+This Red fish had different colors like Blue and Purple. It has a similar appearance to the Blooper, it may as well be an unfinished/unused version of the Blooper, that the developer left in the game for further use.
+It also had some unused code in Josie's code. It was removed shortly after a crash report happened with this code. The code was recovered and found after digging through older versions of Cat Goes Fishing.
+
+Grayfish & Young Grayfish
+
+This fish looks like the Halloween version of the Beakfish. It has a smaller version of itself.
+
+Mello
+
+This Big blue bellied fish is a medium fish considered to be found near the Coral Reef.
+
+Green Cusper
+
+This green purple bone fish has a blue color scheme as well, its cut tail and purple bones may be referencing the waters around the silo.
+
+Dollfin
+
+This Pink medium sized fish has a skeleton, its appearance may hint it being somewhere in the Coral Reef.
+
+Verden & Young Verden
+
+This fish may have been used for a Halloween Yellowjaw, although it is much larger than one. It has a smaller version of itself.
+
+Unconfirmed
+
+This fish has been in the game files since 2015, the developer of the game commented on it as well. It was supposed to live in the caverns, but the name of it is unconfirmed.
+
+Scrappy
+
+This Spinefish lookalike with a luminous body was found in a 2018 version of the game files.
+
+Unconfirmed
+
+This fish was added sometime between 2018 and 2022. The location of the fish is unknown and only speculative. A pink version of it was found when digging trough an older game version.
+
+Fatneck
+
+This fish looks like Peter Griffin and it's pretty fat on it's head, but I don't think it's such a big deal for this purple-pink fish.
+
+Rockfish
+
+This large fish was going to be a secret large fish for the Ancient Ancestors update but was replaced by the Forebearer , it appears to use rocks as camouflage.
+
+Threehead
+
+Probably a smaller ancestor or alternative design of Twohead .
+
+Pawn
+
+An old design of Fumer .
+
+Bishop
+
+An old design of Bishop .
+
+Rook
+
+An old design of Chook .
+
+Ancient Queenfish
+
+An old design of Regina .
+
+Unconfirmed
+
+A older design of the Angle with two dots on its fins, making it look like a butterfly.
+
+Unconfirmed
+
+A small pink fish, most likely to have lived somewhere in the Coral Reef .
+
+Unconfirmed
+
+Another small pink fish, with an eye similar to the Cuddlefish's
+
+Unconfirmed
+
+A green fish that looks very close to the Inno .
+
+Unconfirmed (most likely Sea Jeepy)
+
+A green coloured version of the Sea Jeepy .
+
+Unconfirmed
+
+A medium fish thats body is mostly bones, however it seems to have organs.
+
+Unconfirmed
+
+A green medium fish with a square head. Most likely to have lived in the Coral Reef .
+
+Unconfirmed
+
+This brown medium fish might have lived somewhere in the Caverns due to its colour.
+
+Unconfirmed
+
+Most likely to be a medium fish, this fish has a spike on its head.
+
+Unconfirmed
+
+This fish looks like to be a small shark, it looks weird and doesn't fit the normal artstyle.
+
+Unconfirmed
+
+This fish looks a mix of the Skitter and Tik Tik . It's a large fish.
+
+Unconfirmed
+
+This dark coloured fish with a blue eye most likely lived in the Caverns or the caves below the Coral Reef .
+
+Unconfirmed
+
+This stylish fish sports some very cool glasses and a brightly coloured body.
+
+Minty (Green) Chompy
+
+This fish is a mint coloured version of the Chompy .
+
+Minty (Green) Gorbon
+
+This fish is a mint coloured version of the Gorbon .
+
+Minty (Green) Josie
+
+This fish is a mint coloured version of the Josie .
+
+Pink Crayfin
+
+This fish is a pink coloured version of the Crayfin .
+
+Mother Eel
+
+This is the only huge fish (if we dont count Rojo which we dont know the size of) which is unused, it was then used as the inspiration for the Dragon .
+
+Unused Hats [ ]
+
+Picture
+
+(File) Name
+
+Notes
+
+Unconfirmed
+
+This unused hat is what seems to be from an Anglerfish, it's use is unknown like most of the unused hats.
+
+Unconfirmed
+
+This black coloured hat is in the style of a classical beanie.
+
+Unconfirmed
+
+This hat resembles a hat that a chef in a restaurant would wear while cooking.
+
+Unconfirmed
+
+This hat is in the style of a floral fascinator.
+
+Unconfirmed
+
+This hat looks like a crown that a king/queen would wear. It's equipped with 4 big gems.
+
+Unconfirmed
+
+This green tophat has a 4-leaf clover, symbolizing good luck.
+
+Unconfirmed
+
+This very short hat is in the style of a robin hood's hat.
+
+Unconfirmed
+
+This hat appears to be in the style of a Baker's boy hat.
+
+Unconfirmed
+
+This hat is something a Roman emperor would wear around his head. Seems like the cat stole it.
+
+Unconfirmed
+
+The cap would've probably improved swimming, but this hat was made a long time before the Swimming mechanic was added, so it is not confirmed for sure.
+
+Unconfirmed
+
+The Queenfish has been turned into a hat just like the Anglerfish .
+
+Unconfirmed
+
+This hat is in a cone shape, which resembles the Non La (Leaf Hat)
+
+Unconfirmed
+
+This hat is in the loosely in the style of a sombero with what seems to be a lightbulb on its top.
+
+Unused Coral/Decoration [ ]
+
+Picture
+
+(File) Name
+
+Notes
+
+Blue Sponge Coral
+
+This blue coloured coral is in the style of a sponge.
+
+Blue Pumpkin Coral
+
+This bright blue coral looks like a pumpkin with green coral growing out of the top.
+
+Coral Tree
+
+While this Coral Tree does appear in the game, it appears in a different style.
+
+Coral Vent Large
+
+This coral vent appears in the game only in it's smaller form.
+
+Blue Coral Tree
+
+This is a dark blue coral, it has some lookalikes.
+
+Thick Orange Tree
+
+This orange tree has a stump which is alot thicker than the other corals.
+
+Small Pink Tree
+
+A very small and bright pink tree. It's one of the smallest coral trees.
+
+Sand Coral
+
+This pale yellow coral looks like a sand pile.
+
+Swirly Pink Coral
+
+This slightly pale pink coral has very swirly and almost tentacle-like arms.
+
+Green Coral Cactus
+
+This is the only one of it's kind to be a cactus, it's also suprisingly a coral.
+
+Other Unused/Unimplemented Content [ ]
+
+Picture
+
+(File) Name
+
+Notes
+
+Sir Louis Carlton Fur the Last (Confirmed by Developer)
+
+It is not sure what this mysterious merchant could've been for.
+
+More Bomb Numbers
+
+6-9 bombs isn't possible, and considering the hand drawn numbers, it seems like these sprites are very old, and not likely to be added anytime soon into the game.
+
+Silo Opening
+
+These sprites are from the silo, it looks like the silo would've/will one day open, however the developer hasn't said anything about this know, and used it as a troll.
+Old code for the Silo was found and was edited to be possible to be recreated in Cat Goes Fishing
+
+Video: https://www.youtube.com/watch?v=_qNaDPVOprk
+
+Extinct Descriptions
+
+These extinct descriptions were once in the game and could've been gotten by catching all fish of a species with the Trawler , but this feature was removed due to the Swimming Hotfix being very buggy and making all fish extinct for some players, these extinct descriptions still can be found in the game files and even still getting updated in newer updates.
+
+Arcade
+
+This Arcade wasnt implemented and the reason was explained by the developer on the CGF discord. The arcade was from when I was working with another developer that wanted to make their own games. I was going to add an arcade where you could play their prototypes. But he lost interest in game development.
+
+A party hook
+
+What seems to be a hook except with some colourful lights on its line, it's purpose is unknown.
+
+Meat
+
+This probably would've been used as a lure, but that is not confirmed.
+
+Swirly Lantern
+
+Seems like this lantern would've been used as an upgrade/replacement to the already existing lightbulb.
+
+Worm
+
+While there is already a worm in the game, this one is a bit different in terms of design.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Cat_Goes_Fishing_Wiki =====
+# Cat Goes Fishing Wiki
+The official wiki for the relaxing indie game Cat Goes Fishing .
+
+"Start out on an island with a basic rod. Progress into a radar-wielding master fisher-cat scouring the sea for the biggest and baddest fish. Each fish has unique behaviors that you will learn to exploit as you tailor your arsenal of fishing rods to suit your style of play. Mrrrow!"
+
+Welcome to the Cat Goes Fishing Wiki , a community-maintained encyclopedia about Cat5Games' video game Cat Goes Fishing .
+
+If you wish to contribute, please refer to the Editing Guidelines and Rules of Conduct for more info!
+
+Did you know that there is an official Cat Goes Fishing Discord server ? It's a small one, but we are always looking for new Fishercats to join. You can join the Discord here . We hope to see you soon!
+
+Cat Goes Fishing is available for $6.99 on Steam .
+
+2017 gameplay trailer
+
+2015 initial release gameplay trailer
+
+Navigation [ ]
+
+Fish
+
+-
+Small Fish
+Medium Fish
+Large Fish
+Huge Fish
+
+Regions
+
+-
+The Bay
+Open Ocean
+Coral Reef
+Caverns
+Drop-Off
+The Silo
+Rocky Plateau
+Kelp Plateau
+Furthest Ocean
+
+Equipment
+
+-
+Fishing Rods
+Rod Upgrades
+Lures
+Tools
+Boats
+Hats
+
+Mechanics
+
+-
+The Catalog
+Bait
+Night
+Storms
+Swimming
+
+Miscellaneous
+
+-
+Achievements
+Realism Mode
+Unimplemented Content
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Josie =====
+# Josie
+THIS PICTURE IS OUTDATED. "This fish is rare and powerful, providing more experience than any other in the sea. Perhaps better to release upon catching it."
+
+Contents
+
+1 Statistics
+
+1.1 The Josie is a rare and particularly special Large fish that lives in the waters of the coral basin. It is purple in colour with a distinctive heart-shaped tail and tall fin. It is very valuable and, along with the Ancient Kingfish, gives the most Fishing XP out of any fish when caught.
+
+1.2 Location
+
+2 Catching Guide
+
+3 Reaching the Secret Ending
+
+3.1 Alternative Methods
+
+Statistics [ ]
+
+Josie
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$1,000,000
+
+Location
+
+Coral Reef
+
+The Josie is a rare and particularly special Large fish that lives in the waters of the coral basin. It is purple in colour with a distinctive heart-shaped tail and tall fin. It is very valuable and, along with the Ancient Kingfish, gives the most Fishing XP out of any fish when caught. [ ]
+
+The Josie is one of the few ways to unlock the game's secret ending. This ending prior to the 2022 update couldn't be unlocked if the Josie is fished up and sold, since it didn't respawn and there was only ever one Josie in the game then.
+
+Since the 2022 update, if you catch her, she will respawn and follow fish in the Silo area, like Goldbeard and Snuggler . You can still attain the secret ending this way. Its very useful to reach max level. If you will rescue Josie by grab she as cat and release she will help you.
+
+Location [ ]
+
+The Josie is found at the easternmost point of the Coral Reef (at the far east end of the coral basin) and sometimes to the far east of the Silo as well where it is usually found trailing a Goldbeard . It swims in the midwater region above the Depths.
+
+A very easy way to locate it is by closing the game and re-opening it, the Josie will always spawn far east of the Coral Reef , West of the Bloopers , you must act quickly though as it will continue swimming East until it reaches past the Silo where it will move freely wherever it desires.
+
+Catching Guide [ ]
+
+The Josie is a relatively simple Large fish to catch, and requires large bait. It moves quite slowly and but it is easy to attract its attention. In Realism Mode , it will pull against the line violently and can easily drag your line all way down to the ocean floor, it is best to lure the Josie near the boat before reeling it up .
+
+HOWEVER, it is in the player's best interests to not catch the Josie at all, or to wait until after they have unlocked the game's ending to do so.
+
+If in the boat, Josie will jump out if you get close to an area where it can be sold.
+
+Tip : You can catch Josie, release it, find it again quickly and repeat, which causes the player to get massive amounts of experience. If you can't find Josie after doing that, use a nightfall hat and use another hat. Quickly go to the easternmost point of the Coral Reef and using a deep sonar, you can spot the Josie swimming away.
+
+Another thing, after catching and releasing a Josie once already the same fish will suddenly become incredibly simple to reel in by not fighting at all, but the effect diminishes once you exit the game.
+
+Reaching the Secret Ending [ ]
+
+The only two things required to unlock the secret ending are the Josie and the ability to swim. Swimming is unlocked when the player reaches level 25.
+
+Using Q to enter the water and arrow keys to navigate, exit your boat and swim down to the Josie. Use CTRL to grab onto it, and hold on (a message reading "Don't let go!" will appear).
+
+The Josie will proceed to swim east (or below deep cave) until it exits the map boundary, taking you with it. When you leave the screen, credits will begin to roll, and you will be awarded the Escape The Map achievement .
+
+After this, pressing Q again or restarting the game will put the player back in their boat as if nothing had happened.
+
+Alternative Methods [ ]
+
+Previously it was possible to reach the secret ending by manually Swimming to the end of the map, but this was patched out with the 2022 update. However, there are still a couple of unintended methods of reaching the secret ending without using Josie:
+
+When nighttime begins, all Seraphs will swim to the bottom edge of the map. If you grab one while swimming, it will eventually take you to the credits.
+
+If you bait a Great Cusper old cuspers and any other large or huge (like magnalav ) fish under the map upwards with a small or medium bait, it will eat your bait and begin to swim downwards again. If you grab onto it during this time, it will also take you to the credits.
+
+Interestingly, using any non-Josie method will give you a shorter, more cut down credits scene.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Sizzer =====
+# Sizzer
+Sizzer
+
+Size
+
+Medium
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$3,800
+
+Location
+
+Open Sea
+
+The clever Sizzer uses his sharp beak to snap fishing lines.
+
+Statistics [ ]
+
+The Sizzer is a Medium yellow-orange fish with a distinctive beak-shaped mouth. They gather in groups of three, accompanied by a number of Baby Sizzer . After getting scared off using bomb they return after very short time.
+
+Location [ ]
+
+Sizzer are found in the waters of the Open Sea , midway between the surface and the deep ocean. They are almost completely stationary, except when a nearby Sizzer or Baby Sizzer is hooked.
+
+Catching Guide [ ]
+
+Although Sizzer are quite easy to find, they can be hard to catch. When one Sizzer is hooked, the others within view range will try to snap your line and free your catch. The Flick rod upgrade can help dislodge the attacking Sizzer as you reel in your catch.
+
+Alternatively, it is possible to selectively drive away any other Sizzer using bombs , but this is risky as there is potential to scare off your target as well.
+
+You can also just grab the fish while swimming
+
+A school of Sizzer and Baby Sizzer
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Sodafish =====
+# Sodafish
+Normal: "The Sodafish will steal your bait unless you give him something he truly desires."
+Extinct: "The Sodafish would steal your bait unless you gave him something he truly desired."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching Guide
+
+3 Trivia
+
+Statistics [ ]
+
+Sodafish
+
+Size
+
+Medium
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$1,500,000
+
+Location
+
+The Silo
+
+The Sodafish is a very rare and valuable Medium fish. It is tied for most valuable fish with the Dragon . Unlike most other fish, the Sodafish has a different sprite depending on which way it is facing - the soda attached to its body is only visible on one side.
+
+Location [ ]
+
+It can be found a bit beyond the Silo , but may very rarely be found near the coral reef or in other parts of the map. It usually swims at mid-ocean depths, above total darkness.
+
+Catching Guide [ ]
+
+The Sodafish cannot be caught using normal bait . When you approach it make sure not to get too close, or it will steal your bait and cause the cast to fail. You need to make the Sodafish flip upside down so that the can attached to it falls off. When that happens, quickly rotate around the fish and hook the can (do not leave it or else the fish will dash for the can and get it back). After you have the can, the Sodafish can be caught as normal.
+
+The difficulty is often maneuvering the Sodafish into a good position in the first place. Since it often appears at the far end of the map, beyond boat range, your movement is limited. It may be necessary to lure the Sodafish back to an area under your boat where it is easier to flip it upside down.
+
+You will need:
+
+Collier boat or Tech boat (to reach the edge of the Silo)
+
+Sinker and Glitterbait rod upgrades (Glitterbait is not essential but helps to keep the fish's attention)
+
+Lightbulb and Bait Hat are optional but helpful
+
+The Tech boat is advised so you can use the sonar and also maneuver the hook more effectively.
+
+Before you go for the Sodafish itself, it can be helpful to clear the area of other fish using bombs. For this, the rod upgrades Detonator and Bomb Stack are very effective. Be careful when using bombs that you do not scare off the Sodafish itself. Or you can just swim and grab it.
+
+The Sodafish shown on the Deep Sonar.
+
+Sodafish following the lure.
+
+The can of soda that falls off of the Sodafish, in close up view.
+
+Trivia [ ]
+
+Unlike other fish, the Sodafish has unique animated expressions that change as it swims. There are different animations on the eyes when it is following the line, pulling on the hook, or tired. Additionally, an animation on the mouth occurs when it loses the soda.
+
+When whole, the Sodafish is tied for most valuable fish with the Dragon. However, since it is a Medium fish and can be eaten, the Bones hat will affect it and can potentially make it a $3,000,000 fish.
+
+The Sodafish upon being added was worth $3,800 with it being a secret fish. It was located at the end of the Coral Reef, it was also way easier to catch then nowadays.
+
+Sodafish think soda is she piece of her body and she want to return soda.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Tools =====
+# Tools
+Tools are equipment that allow for ease of navigation underwater. They can be purchased from the Tool Shop, which is unlocked at Level 14. The player must have completed a certain number of quests before each item becomes available for purchase. All items in the Tool Shop are a one-time purchase.
+
+Any of the tools can be turned on and off individually by clicking them again in the Tools Shop.
+
+Minimap [ ]
+
+The minimap is a small square display in the top-left of the player's screen. It shows a widened view of the water directly below the hook, allowing the player to see deeper fish. However, since it displays a true picture of the water and not a sonar display, it isn't helpful at depths or during the night if the player is not using a Lightbulb .
+
+The minimap costs $5,000, and becomes available at Level 6 with the Tool Shop. It requires 9 completed quests to unlock.
+
+Sonar [ ]
+
+The sonar upgrade places a green sonar display in the top-right of the player's screen. The sonar displays fuzzy shapes corresponding to the size of the fish below the boat, and has a much wider radius than the minimap. This allows the player to more easily target specific fish or thread the lure between schools. The sonar is also visible on the boat as a black screen pointing towards the water.
+
+The sonar costs $125,000, and becomes available at Level 6 with the Tool Shop. It requires 19 completed quests to unlock.
+
+Deep Sonar [ ]
+
+Deep sonar is an upgrade to the sonar. It has a much higher resolution and provides the sonar with a much clearer image that shows the outlines of each fish. It also allows the sonar to follow the player's lure down into the caverns and other deep places. It can be turned on and off independently from normal sonar.
+
+The deep sonar costs $1,200,000, and becomes available at Level 35. It requires 29 completed quests to unlock.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Cuddlecanth =====
+# Cuddlecanth
+Before encounter: "This extinct fish used to live in the deep caves under the coral reef."
+
+After encounter: " This fish, once thought extinct, was somehow spotted!"
+
+After catch: "This fish lives in the deep caves under the coral reef; it was presumed extinct until a few samples where isolated."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching guide
+
+3 Trivia
+
+Statistics [ ]
+
+Cuddlecanth
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$220,000
+
+Location
+
+Coral Reef
+
+The Cuddlecanth, is a Dark Blue fish which may be related to the Cuddlefish and Snuggler .
+
+Location [ ]
+
+Cuddlecanth are found inside a cave deep beneath the Coral Reef . They can only be found if the player sets their device's date to before the date Cat Goes Fishing was released (January 19th, 2014).
+
+Catching guide [ ]
+
+Large bait that's all, but don't worry it doesn't put up any fight on realism mode. You may need to use Flick or the Explorer Hat to reach its location.
+Cuddlecanth Location
+
+Trivia [ ]
+
+The Cuddlecanth seems to be based on the Coelacanth of the real world, a fish once though to be extinct, that was later found to still live. The Coelacanth is known to hide in undersea caves during the day. The Cuddlecanth's description appears to reference these facts.
+
+If you wont set the date before cat goes fishing was released you will just find fossils.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Phase =====
+# Phase
+Normal: "This fish exists in two out-of-phase halves, producing an odd stereoscopic effect. Studying it could lead to new technological innovations."
+
+Extinct: "This fish existed in two out-of-phase halves, producing an odd stereoscopic effect. Studying it led to many technological innovations."
+
+Statistics [ ]
+
+Phase
+
+Size
+
+Small
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$50,000
+
+Location
+
+Coral Reef
+
+The Phase is a Small fish with a strangely-shaped body and mottled purple colouration. It is solitary, but when found will be swimming in a colour-shifted "stereoscopic" form, with both a red and blue copy swimming near each other.
+
+Catching the Phase is one of the requirements to be able to purchase the Tech Boat , the other being catching the Abyssal .
+
+Location [ ]
+
+The Phase is found in the deep cave between the Coral reef and the Drop-off left of Germ's den. The phase may also be found inside or near the Cuddlecanth cave.
+
+Phase likes to wander so if you cannot find it in any of these locations restart your game and keep checking. Eventually it will appear.
+
+Catching Guide [ ]
+
+As it is a Small fish, a small bait is enough to catch the Phase. However, players will probably find a Lightbulb useful when trying to find it in the deeper water where it usually hangs out. Using Bombs and the detonator upgrade to scare away any Bulbeaters is highly advised. Phase wanders the whole deep cave and even some parts of Germ's den so its best to keep searching and not staying in one spot, however Phase is also very slow so make sure to stop from time to time to check if its not just trailing behind your lure as phase has a very big lunge radius.
+
+The Phase can't be caught until its two stereoscopic forms merge into its normal form. The player can trigger this by hovering the hook in the middle of them and waiting until they drift back together.
+
+As a tip, if you find one half of the Phase but not the other, move the hook in approximately the opposite direction the fish was swimming when you found it.
+
+Phase in it's stereoscopic form.
+
+Catching the phase (Unlocking the Tech Boat)
+Video guide on how to catch the Phase.
+
+Where the Phase is located.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Achievements =====
+# Achievements
+There are a total of 86 achievements in Cat Goes Fishing .
+
+Contents
+
+1 List of Achievements
+
+1.1 Quest Achievements
+
+1.2 Rod Achievements
+
+1.3 Rod Upgrades
+
+1.4 Tool Shop Achievements
+
+1.5 Lure Shop Achievements
+
+1.6 Boat Achievements
+
+1.7 Hat Achievements
+
+1.8 Special Achievements
+
+1.9 Fish Catching Achievements (Realism Mode Only)
+
+List of Achievements [ ]
+
+Quest Achievements [ ]
+
+There are four achievements that are acquired through quest completion.
+
+Casual Quester
+
+Complete 10 quests.
+
+Core Quester
+
+Complete 25 quests.
+
+Hardcore Quester
+
+Complete 50 quests.
+
+Master Quester
+
+Complete 100 quests.
+
+Rod Achievements [ ]
+
+There are a total of five achievements to be gained through purchasing new fishing rods .
+
+Doing Good
+
+Unlock the Good Rod.
+
+Powerful
+
+Unlock the Power Rod.
+
+Quickening
+
+Unlock the Quick Rod.
+
+Doing Great
+
+Unlock the Great Rod.
+
+Rod Master
+
+Unlock the Master Rod.
+
+Rod Upgrades [ ]
+
+There are a total of fourteen achievements related to purchasing rod upgrades .
+
+Scouter
+
+Upgrade your rod with Scouting .
+
+Slow Motion
+
+Upgrade your rod with a Suspending Lure.
+
+This achievement's description is incorrect, as it actually refers to the Rising Lure upgrade.
+
+Fast Forward
+
+Upgrade your rod with a Sinking Lure.
+
+This achievement's description is incorrect, as it actually refers to the Diving Lure upgrade.
+
+Hurry up!
+
+Upgrade your rod with an Improved Crank .
+
+Come Here!
+
+Upgrade your rod with Attract .
+
+Go Away!
+
+Upgrade your rod with Repel .
+
+Stealth Mode
+
+Upgrade your rod with Crankbait .
+
+Paranoia
+
+Upgrade your rod with Bait Guard .
+
+Attraction
+(Secret)
+
+He'll see you coming from a mile away!
+
+Buy three Attract upgrades for any one fish species on a single rod.
+
+Avoidance
+(Secret)
+
+Well, you won't be catching him anymore.
+
+Buy three Repel upgrades for any one fish species on a single rod.
+
+Patience
+(Secret)
+
+It's a virtue.
+
+Upgrade your rod with two Rising Lure upgrades.
+
+Impatience
+(Secret)
+
+It's not a virtue.
+
+Upgrade your rod with five or more Diving Lure upgrades (requires Power Rod or above).
+
+Fine Tuning
+(Secret)
+
+Because being complicated is cool.
+
+Have a Rising Lure and Diving Lure upgrade equipped on your rod at the same time.
+
+Brute Force
+(Secret)
+
+Planning ahead is for chumps.
+
+Upgrade your rod with five or more Improved Crank upgrades (requires Power Rod or above).
+
+Tool Shop Achievements [ ]
+
+There are two achievements gained through purchasing items from the Tool Shop. There is no achievement for purchasing the deep sonar.
+
+Peripheral Vision
+
+Unlock the Minimap.
+
+Eyes Down Deep
+
+Unlock the Radar.
+
+Lure Shop Achievements [ ]
+
+There are two achievements gained through items from the Lure Shop.
+
+Bright Idea
+
+Buy a lightbulb lure.
+
+Boom!
+(Secret)
+
+Scare away 15 or more fish with a single bomb.
+
+Catching a Queenfish to lure in many Kingfish , or baiting a large school of Chaw over the Silo , can help in obtaining this achievement.
+
+Boat Achievements [ ]
+
+There are a total of three achievements to be gained through purchasing boats .
+
+Offshoring
+
+Unlock the Basic Boat.
+
+High Seas
+
+Unlock the Good Boat
+
+Boat Master
+
+Unlock the Great Boat.
+
+This achievement actually refers to the Luxury Boat.
+
+Hat Achievements [ ]
+
+There are two achievements gained through obtaining hats of different rarities.
+
+Such Swag
+
+Find a hat.
+
+Super Swag
+
+Find a legendary hat.
+
+This achievement is also awarded for finding a "Mythic" or "Discovered" rarity hat.
+
+Special Achievements [ ]
+
+There are six achievements that are unlocked by completing specific requirements while fishing.
+
+Suntouched
+(Secret)
+
+Throw a large fish back in the ocean.
+
+Oops
+(Secret)
+
+Cause the extinction of a species.
+
+Fish up and sell both Torby in a single save file.
+
+Perpetual Motion
+(Secret)
+
+Casting? Never heard of it.
+
+Have the Shark drag down live fish on your line three times.
+
+Clever Cat
+(Secret)
+
+Catch a Shark with the basic rod.
+
+Escape the Map
+(Secret)
+
+Escape the map.
+
+Ride the Josie off the edge of the map and see the credits.
+
+Temporal Agent
+(Secret)
+
+Go back in time and save the Cuddlecanth from extinction.
+
+Set your computer date to Cat Goes Fishing's release date (19th of January, 2015) And catch the Cuddlecanth
+
+Fish Catching Achievements (Realism Mode Only) [ ]
+
+There are 48 achievements that are awarded after catching specific challenging fish in Realism mode . These achievements cannot be obtained in Classic mode.
+
+Moo
+
+Catch a Cowfish in Realism mode.
+
+Whee!
+
+Catch a Seraph in Realism mode.
+
+The Struggle is Reel
+
+Catch a Turgeon in Realism mode.
+
+No Diving Allowed
+
+Catch a Brimble in Realism mode.
+
+Georgian
+
+Catch a Georgian in Realism mode.
+
+Felish
+
+Catch a Felish in Realism mode.
+
+Angler
+
+Catch an Anglerfish in Realism mode.
+
+Catfin
+
+Catch a Catfin in Realism mode.
+
+Trumble
+
+Catch a Trumble in Realism mode.
+
+Bagu
+
+Catch a Bagu in Realism mode.
+
+On The Brink
+
+Catch a Torby in Realism mode.
+
+Disturbing the Peace
+
+Catch a Bonefish in Realism mode.
+
+Shark Slayer
+
+Catch a Shark in Realism mode.
+
+Master of the Maw
+
+Catch a Maw in Realism mode.
+
+Moga Moga
+
+Catch a Moga in Realism mode.
+
+Tiger Tamer
+
+Catch a Tiger Shark in Realism mode.
+
+Chompy
+
+Catch a Chompy in Realism mode.
+
+Swordfish
+
+Catch a Swordfish in Realism mode.
+
+Koin
+
+Catch a Koin in Realism mode.
+
+Conga
+
+Catch a Conga in Realism mode.
+
+Ray
+
+Catch a Ray in Realism mode.
+
+Hamahed
+
+Catch a Hamahed in Realism mode.
+
+Tik Tik
+
+Catch a Tik Tik in Realism mode.
+
+Spotter
+
+Catch a Spotter in Realism mode.
+
+Piercer
+
+Catch a Piercer in Realism mode.
+
+Dragon Fish
+
+Catch a Dragon Fish in Realism mode.
+
+Lampis
+
+Catch a Lampis in Realism mode.
+
+Stankfin
+
+Catch a Stankfin in Realism mode.
+
+Noctis
+
+Catch a Noctis in Realism mode.
+
+Thistle
+
+Catch a Thistle in Realism mode.
+
+Swaller
+
+Catch a Swaller in Realism mode.
+
+Gupper
+
+Catch a Gupper in Realism mode.
+
+Cavefish
+
+Catch a Cavefish in Realism mode.
+
+Sired
+
+Catch a Nightfish Sire in Realism mode.
+
+Abyssal (Secret)
+
+Catch a Abyssal in Realism mode.
+
+Santu
+
+Catch a Santu in Realism mode.
+
+Mizifin
+
+Catch a Mizifin in Realism mode.
+
+Luifin
+
+Catch a Luifin in Realism mode.
+
+Gorbon
+
+Catch a Gorbon in Realism mode.
+
+Geiger
+
+Catch a Geiger in Realism mode.
+
+Dragon
+
+Catch a Dragon in Realism mode.
+
+Lemonback
+
+Catch a Lemonback in Realism mode.
+
+Josie
+
+Catch a Josie in Realism mode.
+
+Germ
+
+Catch a Germ in Realism mode.
+
+Mamo
+
+Catch a Mamo in Realism mode.
+
+Cave shark
+
+Catch a Cave Shark in Realism mode.
+
+Ghost
+(Secret)
+
+Catch a Ghost in Realism mode.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Elder_Orwellian =====
+# Elder Orwellian
+Elder Orwellian
+
+Size
+
+Huge
+
+Rarity
+
+common
+
+Sell Price
+
+$1,000,000
+
+Location
+
+Everywhere when letting out regular orwellian
+
+"Any Orwellian can ascend under the right circumstances, but unless stabilized it will revert back in a flash of lightning. Even in this form, it prefers to rest on the sea floor."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching Guide
+
+3 Signs
+
+4 Additional information
+
+5 Trivia
+
+Statistics [ ]
+
+Elder Orwellian is a secret huge fish added to the performance patch in July 2024.
+
+Location [ ]
+
+Elder Orwellian can only spawn when the cat throws an Orwellian out of the boat, after which it goes down under the map.
+
+Catching Guide [ ]
+
+It requires a Mega hook and large bait.
+
+To catch Elder Orwellian you have to catch an Orwellian, place it on your boat, and release it over the hook by swimming, grabbing it, and releasing it in the water. The fish must be alive. the Orwellian will transform into an Elder Orwellian in a flash of lightning, bite the lure and start dragging the line directly downwards, even on classic mode. If Elder Orwellian hits a rock as its traveling downwards it will become unresponsive, but if it exits the map without hitting a rock it will stop fighting, allowing you to catch it. A good spot for this is the basin on the right of the coral reef, where the Yin is found.
+
+Signs [ ]
+
+What Language is this?
+How is it in the water?
+Is it sinking or floating?
+As the player sells Orwellians, signs protesting against Orwellians will start to appear in the background, and its catalog entry will start changing depending on how many the player has caught.
+
+Additional information [ ]
+
+There can only be 1 elder Orwellian on the map at once, elder Orwellian will never give up unless he reaches a specific zone under the map.
+
+The description of normal Orwellian changes depending on your actions (before seeing it, after seeing it, after catching it, after seeing elder Orwellian, after catching elder Orwellian, after spawning enough elder Orwellians and after spawning a ton of elder Orwellians)
+
+If the Elder Orwellian stays in one place for long enough a lightning will strike it again and it will turn back into regular Orwellian.
+
+Trivia [ ]
+
+This is the most powerful fish in the game as It's lightning can kill a Dragon and any other fish , if the Elder Orwellian 's lightning kills a Torby , you can not get the "Oops" achievement.
+
+You can revive Torby if you it is extinct by summoning an Elder Orwellian when Ghost is in the waters. The Ghost will turn into a Torby and float up to the surface, then you can wait for the Torby to respawn and catch it.
+
+It bares the same mark as the Ancient Kingfish 's minions, suggesting a connection between the two.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Powerfin =====
+# Powerfin
+Normal: "This curious fish is always searching the map for secrets. I wonder what would happen if it had a tool to help it navigate?"
+
+Endangered: "This curious fish is always searching the map for secrets. It is endangered."
+
+Extinct: "This curious fish was always searching the map for secrets. It is now extinct."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching Guide
+
+3 Trivia
+
+Statistics [ ]
+
+Powerfin
+
+Size
+
+Medium
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$120,000
+
+Location
+
+Near the Silo
+
+The Powerfin is a fish added in the 2023 Ancient Ancestors update, it has a long, bright yellow to orange body, with alot of fins, its tail looks like a tip of a brush.
+
+Location [ ]
+
+The Powerfin is usually located around the Silo , it swims in many spots up and down but it should be around that area.
+
+Catching Guide [ ]
+
+To catch the Powerfin, you need medium/large bait. Then go Near The Silo and search around that area, if the Powerfin isnt there, try restarting your game or wait for him to switch to another spot.
+
+Trivia [ ]
+
+The Powerfin is a fish made in reference to Powringhowing , a Cat Goes Fishing Discord member.
+
+"I like green" - (C) Powringhowing.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Problematicus =====
+# Problematicus
+Normal/Before Catch: "This behemoth lives in the furthest reaches of the sea. Enticing him to bite will take a truly tasty treat. "
+
+After Catch: "This behemoth lives in the furthest reaches of the sea. Enticing him to bite takes a delicious worm."
+
+Endangered: "This behemoth lives in the furthest reaches of the sea. Enticing him to bite will take a truly tasty treat. It is endangered."
+
+Extinct: "This behemoth lived in the furthest reaches of the sea. Enticing him to bite did take a truly tasty treat. It is now extinct."
+
+Statistics [ ]
+
+Problematicus
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$990,000
+
+Location
+
+Furthest Ocean
+
+The Problematicus is a Huge fish located beyond the reach of a Tech Boat. It swims to the left and it sometimes stops to swim in a small circle until resuming its usual swimming, or just continually swims in a circle. It is One of few fish who live in the Furthest Ocean . Stalkers are sometimes seen following the Problematicus.
+
+Location [ ]
+
+The Problematicus swims along the map edge, in the Furthest Ocean.
+
+Catching Guide [ ]
+
+To catch this big fish you will need the Dig Hat . This is obtained by using the Buffalofish to break the walls like how you get the Ancient Kingfish . However you'll want to break all the walls and go down in the final area and you should find it! Now that you have the dig hat, head back to shore and cast backwards to get a worm. Head all the way out to the Problematicus and cast. Guide the worm into the Problematicus and you will get it hooked. It fights back hard in Realism. The Problematicus will go all the way back to the shore along the bottom of the map and then to the furthest ocean where it will stop fighting as much.
+
+Trivia [ ]
+
+The Problematicus was inspired by the real life " Leedsichthys problematicus ", a real species of prehistoric pachycormid fish. It was a plankton eater and the 2nd largest fish ever discovered!
+
+The Problematicus after being bombed, visible on the Sonar.
+
+The Problematicus seen on the sonar.
+
+The head of the Problematicus.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Ancient_Kingfish =====
+# Ancient Kingfish
+Before Capture: "This powerful fish built an army while imprisoned in the caves, now he seeks to take over the plateau with his loyal companions."
+After Capture: "This powerful fish built an army to server under his banner, and took over huge regions of the ocean. Only one has ever been seen."
+
+Statistics [ ]
+
+Ancient Kingfish
+
+Size
+
+Large
+
+Rarity
+
+Common
+
+Sell Price
+
+$1,000,000
+
+Location
+
+Rocky Plateau Cave
+
+The Ancient Kingfish is a Large fish with an orange body and desaturated stripes covering it. One of its fins resembles a crown with a red gem in the center. It has bright orange fins. Worth $1 million, the Ancient Kingfish is the most valuable large fish, and one of the most valuable fish in the game.
+
+Location [ ]
+
+The Ancient Kingfish is found in the Rocky Plateau area which is reachable via the Tech Boat . It resides in the first cave which must be broken by a Buffalofish . Even when the cave is broken, the Ancient Kingfish will stay in the same spot while his chess-themed minions swim outside of the cave.
+
+Catching guide [ ]
+
+Catching the Ancient Kingfish is very difficult due to all of his minions which try to interfere with you. These are 1.) Fumer 2.) Caval 3.) Bishop 4.) Chook and 5.) Regina . It is recommended to catch these fish or scare them away with bombs to clear the way for the Ancient Kingfish.
+
+One fact which you can use to your advantage is that the Ancient Kingfish does not get affected by explosions. By luring the fish outside of the cave and toward the boat with bombs on the hook (See Bomb Stack ), you can use Detonator when his minions swim to you. Eventually all his minions will be gone and the Ancient Kingfish will be left undefended.
+
+Another method is to carry bombs on the hook while luring the Ancient Kingfish toward your boat, scaring the other fish on the way up. Make sure to reel him in before you reach the water's surface.
+
+Once the Ancient Kingfish is caught, all of his minions will retreat back into the cave, where they can easily be caught. Furthermore, the Kingfish will never respawn. The only other fish which exhibits this property is Torby , once two are caught.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Dunkan =====
+# Dunkan
+Before Catch: "This newly discovered huge fish ravages the local landscape. Its tough armour makes it impossible to catch."
+
+Caught/Normal: " This huge fish ravages the local landscape. Its tough armour makes it resistant to bombs, but it's not so tough."
+
+Endangered: "This huge fish ravages the local landscape, due to its large size it's a big target and has been overfished."
+
+Extinct: "This huge fish used to ravage the local landscale, but it was fished to extinction."
+
+Statistics [ ]
+
+Dunkan
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$1,000,000
+
+Location
+
+Rocky Plateau
+
+The Dunkan is a Huge fish with a craggy brown body that resembles worn stone. Its head is heavily armoured, with dark brown plates and sharp teeth.
+
+Location [ ]
+
+The Dunkan can be found on the Rocky Plateau , in the open water just above the sea floor.
+
+Catching Guide [ ]
+
+In order to catch the Dunkan it needs to be scared all the way to the right side of the map with bombs , simultaneously damaging its armor. This is achieved by using the Bomb Stack and Detonator upgrades on your rod .
+
+After you have successfully repelled it all the way to the right, its armor can be blown off with the use of enough bombs, allowing it to be caught with a large bait and a huge hook or mega hook . The exact amount of bombs needed for this is 8.
+
+Another way to break its armour is to bring a Puff from the open ocean although this is not the intended way and may get changed.
+
+Trivia [ ]
+
+Dunkan is based of a prehistoric fish called Dunkleosteus. It had tough armor and could open and close its mouth as fast as you can blink. It lived in Devon which is about 419 to 359 million years ago. It could grow to 10 meters and it’s razor sharp fangs were made of the same material as it’s tough armor,it had the strongest bite force of any creature on the planet (up to 80000 PSI) and the name Dunkan was commonly used as its name because it's actual name was too long to say.
+
+One of the fossils in the fossil area in the silo appears to be a dunkan head.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Bulbeater =====
+# Bulbeater
+"This fish lives in the depths of the ocean, eating the bulbs of careless fishercats."
+
+Statistics [ ]
+
+Bulbeater
+
+Size
+
+Medium
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$120,000
+
+Location
+
+Multiple regions, at great depth.
+
+The Bulbeater is a Medium fish with a long white body and grey markings.
+
+Location [ ]
+
+The Bulbeater is found in many places across the map, beyond the maximum depth of the Master Rod . One can even be found in the Furthest Ocean .
+
+Catching Guide [ ]
+
+If you have a Lightbulb equipped and, with your hook, reach the depth that can only be surpassed with the Explorer Hat, this fish will take your Lightbulb , forcing you to rely on your Sonar to see in the dark. It's recommended to try and catch this fish using a Tech Boat , as this disables the Sonar static that you see when around the sonar jammer of The Silo.
+
+To catch it, bring a Huge Hook or a Mega Hook, and catch a Tim or Bulbfish . Then you bring the Tim or Bulbfish to the Bulbeater, causing it to bite the hook. In Realism Mode , you will need some pretty good skills with your rod to fight the Bulbeater's resistance, as it will frequently pull your hook down with moderate strength.
+
+Trivia [ ]
+
+Since most of Players find that fish annoying, It can now be countered by the new rod upgrade Bulbguard , Preventing the fish from being caught.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Mizifin =====
+# Mizifin
+"The Mizifin wanders the distant sea, happily enjoying the company of his mate."
+
+Statistics [ ]
+
+Mizifin
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$12,000
+
+Location
+
+Coral Reef
+
+The Mizifin is a large purple fish that is never found without its partner, the Luifin . If its partner is caught, the Mizifin will go into a sad, slow state, stopping its rapid movement.
+
+Location [ ]
+
+The Mizifin and Luifin swim together at mid-ocean depths in the basin east of the Coral Reef .
+
+Catching Guide [ ]
+
+Because of their distinctive colours and tendency to swim in a pair, the Mizifin and Luifin are fairly easy to spot. A Sinker upgrade can help in reaching their usual swimming depths.
+
+Both the Mizifin and Luifin put up a significant fight when hooked in Realism mode , pulling the line sharply and for long distances. It may take a while for them to tire, and since they can pull the line into the darkness a Lightbulb may be needed to keep track of line tension. When one is caught, the other one becomes easier to catch.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Luifin =====
+# Luifin
+"The Luifin wanders the distant sea, happily enjoying the company of her mate."
+
+Statistics [ ]
+
+Luifin
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$12,000
+
+Location
+
+Coral Reef
+
+The Luifin is a large pink fish that is never found without its partner, the Mizifin . If its partner is caught, the Luifin will go into a sad, slow state, stopping its rapid movement.
+
+Location [ ]
+
+The Luifin and Mizifin swim together at mid-ocean depths in the basin east of the Coral Reef .
+
+Catching Guide [ ]
+
+Because of their distinctive colours and tendency to swim in a pair, the Luifin and Mizifin are fairly easy to spot. A Sinker upgrade can help in reaching their usual swimming depths.
+
+Both the Luifin and the Mizifin put up a significant fight when hooked in Realism mode , pulling the line sharply and for long distances. It may take a while for them to tire, and since they can pull the line into the darkness a Lightbulb may be needed to keep track of line tension. When one is caught, the other one becomes easier to catch.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Jackfish =====
+# Jackfish
+Normal: "Little is known about this recently discovered species. It lives deep under the coral basin"
+
+Extinct: " Despite its odd appearance, the Jackfish was a typical small fish. It once lived deep under the coral basin."
+
+Statistics [ ]
+
+Jackfish
+
+Size
+
+Small
+
+Rarity
+
+Common
+
+Sell Price
+
+$12,000
+
+Location
+
+Caverns (coral basin caves)
+
+The Jackfish is a Small, reclusive fish. It is pale blue-grey in colour, with an assortment of lumpy and spiny fins and a perpetually open mouth. This slow-moving fish usually appears in groups of three.
+
+Location [ ]
+
+The Jackfish is found deep in a particular section of the coral basin's twisting caves . It is found in the section below where Lemonback can be caught, and above the Crystalfish cave.
+
+Catching Guide [ ]
+
+The Jackfish is a somewhat difficult catch for a small fish, simply because of the issue of its narrow crevice with having some larger fish take a bite out of it. It may be more useful to bring it up and out through the empty caves (see the map ), where there is more space to manoeuvre.
+
+A Lightbulb lure and the Sinker rod upgrade are recommended. The Flick rod upgrade can help in case the line becomes snagged while reeling the Jackfish to the surface.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Fishing_Rods =====
+# Fishing Rods
+The fishing rod is the core tool used by the Cat in Cat Goes Fishing . Although you start with only a basic rod, it can be upgraded as the game progresses, Successive upgrades allow you to cast farther, sink deeper, reel faster, and tackle more and more challenging fish. In addition, better rods have more slots available to install useful rod upgrades .
+
+Although you automatically change to a new rod once it is purchased, you can go back to using one of your old rods by clicking on it in the rod menu. Upgrades are specific to an individual rod, and do not transfer over (but they are also not removed from one rod if you buy another one). A newly-purchased rod will always have no upgrades, and upgrades get progressively more expensive on higher-level rods.
+
+Contents
+
+1 Basic Rod
+
+2 Good Rod
+
+3 Power Rod
+
+4 Quick Rod
+
+5 Great Rod
+
+6 Master Rod
+
+7 Gallery
+
+Basic Rod [ ]
+
+The Basic Rod is the player's starting rod, obtained for free at the beginning of the game. It has a short line and cannot reach the deep ocean or touch the seafloor.
+
+It has three slots available for rod upgrades.
+
+The Basic Rod is required for obtaining the Clever Cat achievement .
+
+Good Rod [ ]
+
+The Good Rod can be purchased from the Rod Shop for $750. It has a relatively short line (although longer than the Basic Rod) and cannot reach the depths without the use of a rocket .
+
+It has four slots available for rod upgrades.
+
+Power Rod [ ]
+
+The Power Rod can be purchased from the Rod Shop for $10,000. It has a long line and is capable of reaching parts of the seafloor without assistance.
+
+It has five slots available for rod upgrades.
+
+Quick Rod [ ]
+
+The Quick Rod can be purchased from the Rod Shop for $35,000. It has a longer line than the Power Rod and is able to touch most parts of the seafloor, but cannot descend into the Caverns . It also has the fastest unupgraded reel-in speed of any rod.
+
+It has six slots available for rod upgrades.
+
+Great Rod [ ]
+
+The Great Rod can be purchased from the Rod Shop for $180,000. It has a longer line than the Quick Rod and is able to explore the seafloor and descend a decent distance into the Caverns.
+
+It has seven slots available for rod upgrades.
+
+Master Rod [ ]
+
+The Master Rod can be purchased from the Rod Shop for $320,000. It is the best rod in the game, and capable of exploring the majority of the Caverns without assistance. With the addition of the Explorer hat , it can descend to the deepest sections of the game - the bottom of the Silo , the lower parts of the coral basin caves and empty caves, and the chasm.
+
+It has eight slots available for rod upgrades.
+
+Gallery [ ]
+
+World map with the maximum line depths of each rod (when equipped with a Sinker upgrade) marked.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Equipment =====
+# Equipment
+In Cat Goes Fishing , the player can obtain a variety of equipment to help them navigate the game world and catch larger, more challenging fish.
+
+Equipment is purchased from various shop tabs that unlock across the top of the screen as the player levels up, including the Rod Shop, Boat Shop, and Hatalog.
+
+Contents
+
+1 Fishing Rods
+
+2 Rod Upgrades
+
+3 Lures
+
+4 Tools
+
+5 Boats
+
+6 Hats
+
+Fishing Rods [ ]
+
+Main article: Fishing Rods
+The rod is the player's core tool, used to catch fish. The player begins with a Basic Rod but is able to upgrade through the Rod Shop, allowing them to cast farther, sink deeper, reel faster, and tackle more and more challenging fish.
+
+Rods have upgrade slots, allowing the player to purchase and install useful rod upgrades. Higher-tier rods have more available slots.
+
+Rod Upgrades [ ]
+
+Main article: Rod Upgrades
+
+Rod upgrades are available for purchase through the Rod Shop menu, by clicking on an equipped rod. They provide an array of useful bonuses that make catching fish easier, and are unlocked gradually through game progression.
+
+Each rod comes with upgrade slots which are specific to that rod, so the player can build different upgrade sets on different rods.
+
+Lures [ ]
+
+Main article: Lures
+Lures are purchasable, one-use items that are purchased from the Lure Shop and can be attached to your line. Each lure has a different effect, such as providing light in deep waters or allowing the player to catch Huge fish.
+
+Tools [ ]
+
+Main article: Tools
+
+The minimap, sonar and deep sonar are all purchased from the Tool Shop. They allow the player to better navigate the water, first with the use of the wider-screen minimap and later with increasingly high-resolution sonar displays.
+
+Boats [ ]
+
+Main article: Boats
+The Boat Shop, unlocked at Level 7, allows the player to purchase a boat and travel away from the shore. This opens up the ability to fish in other regions of the map, giving access to newer, more valuable fish.
+
+The Basic Boat, which is the first boat available to the player, can only travel a short distance away from the shore. Successive boats will increase your maximum travelling range.
+
+Hats [ ]
+
+Main article: Hats
+
+Hats can be fished up from the ocean, and after they are unlocked in this way they may be purchased from the Hatalog while the player is not out at sea. Hats have a variety of helpful passive effects which may aid the player in a variety of ways (such as increasing the effectiveness of different lures or making the boat move faster).
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Cat_Goes_Fishing_Wiki%3AEditing_Guidelines =====
+# Cat Goes Fishing Wiki:Editing Guidelines
+Please make sure you also familiarise yourself with the Rules of Conduct !
+
+This page serves as a guide to help editors get started on the Wiki. Please read this article all the way through before making any edits if you are new! These guidelines are meant to support contributors in the creation and expanding of articles, to ensure a certain degree of uniformity, and to have a set of common rules for admin decisions.
+
+If you need to get in contact with the admins, leave a message on their Message Wall.
+
+General Rules of Thumb [ ]
+
+Ask before making new pages, most missing pages have already been made or are already planned.
+
+Make articles short and concise. Do not clutter pages. Less information is sometimes better.
+
+Ask questions if you need any help or advice or if you can't find anything.
+
+Formatting and Editing [ ]
+
+Use correct punctuation, capitalisation and spelling. Avoid run-on sentences.
+
+For Fish articles, use the established format (refer to the Cuddlefish , Shark and Lumina pages for examples). Add "Catching Guide" sections only when the fish is notably difficult to catch due to either method or Realism mode difficulty.
+
+Make use of headings so as to avoid long text walls.
+
+Capitalise Small, Medium, Large and Huge when referring to fish sizes ONLY.
+
+For Fish and Item infoboxes, use a transparent image where available. If there is no transparent image uploaded, insert a placeholder or leave the image section blank.
+
+Please use the appropriate templates.
+
+Avoid linking the same thing more than once on a page.
+
+For mentioning achievements in an article, use the format [Achievement name] achievement to link to the Achievements page.
+
+Avoid using subjective language where it isn't warranted, and keep articles informative, clear and concise.
+
+Trivia [ ]
+
+Any information about a specific item, fish or mechanic that does not fit into any other section on a page is considered Trivia. Not every article needs or warrants a Trivia section, but you may add one if you feel you have something interesting to mention.
+
+What is trivia [ ]
+
+Information about previous versions of the game or information that may be useful as a point of reference.
+
+Inspiration on designs that may have been taken from the real world, other games, or literature.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Bramble =====
+# Bramble
+"This close relative of the brimble is much more active, stopping small fish from straying into the plateau. It seems to be protecting something."
+
+Statistics [ ]
+
+Bramble
+
+"This close relative of the brimble [sic] is much more active, stopping small fish from straying into the plateau. It seems to be protecting something."
+
+Size
+
+Medium
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$50,000
+
+Location
+
+Rocky Plateau
+
+This fish resembles its relative the Brimble , it is medium but moves a lot more than its relative. You can find it on the left side of the Rocky Plateau swimming upwards and then returning downwards in fast motion. It is worth $50,000 when caught. It will attempt to prevent small fish such as Rare fruit from passing through the area.
+
+Catching Guide [ ]
+
+To Catch, you need a medium bait or large, then it will grab when nearby the bait.(simple)
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Great_Cusper =====
+# Great Cusper
+Before catching: " This giant cusper seems to be usually uninterested in food but is attracted to strong electromagnetic waves."
+
+Normal: "The great cusper seems to be a mutated blue cusper who has unlocked some dormant ancient genes."
+
+Endangered: "The great cusper is a mutated blue cusper who has unlocked some ancient dormant genes. Because of its large size, it is being overfished."
+
+Extinct: "The great cusper was a mutation of the blue cusper who had unlocked some ancient dormant genes. It has been overfished to extinction."
+
+Statistics [ ]
+
+Great Cusper
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$500,000
+
+Location
+
+The Silo
+
+The Great Cusper is a Huge fish with a bulbous head and a pale greyish-blue body. It is related to both the Blue Cusper and the Old Cusper .
+
+Location [ ]
+
+The Great Cusper is located to the right of the fossil area which is near the Silo , lurking near the bottom.
+
+Catching Guide [ ]
+
+The Great Cusper is a Huge fish and requires large bait . To catch the Great Cusper, you first have to lure Old Cuspers. To do this, throw your bait with a Huge Hook into the water and wait around near the surface for 30 seconds, then after about another 10-15 seconds, the Great Cusper should appear.
+
+In realism mode , The Great Cusper will fight for a little bit by going in circles but after a minute or so he tires and lets you bring him up. Though not needed, Gauge does help and Flick is nice if you ever get stuck on the way up.
+
+A fact: this ancient dormant genes its genes from radiation of the silo and its bad for Great Cusper live.
+
+• If you will catch Great Cusper Blue and Old Cuspers will chase Great Cusper until you catch he
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Old_Cusper =====
+# Old Cusper
+Normal: "This seemingly sightless specimen resembles the common Cusper, perhaps some variant that persists in a state of perpetual, gradually diminishing senescence. "
+Extinct: "Like all Cusper, this fish once possessed some form of extra-sensory perception. It is now extinct."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching Guide
+
+3 Trivia
+
+Statistics [ ]
+
+Old Cusper
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$38,000
+
+Location
+
+The Silo
+
+The Old Cusper is a Large fish with a dull yellow body and many white eyes. It resembles a mutated version of the Blue Cusper, likely due to the radiation of The Silo .
+
+Location [ ]
+
+The Old Cusper can spawn anywhere, though it can only be found after the player is afk for 5-10 minutes.
+
+Catching Guide [ ]
+
+There are two methods to catch it. Since the Old Cusper is a deep-water Silo fish, the Collier boat and Sinker Rod Upgrade can be used to catch it in its natural habitat. Actually hooking the Old Cusper is not very difficult as it is slow moving. It's a long way to reel it back to the boat, but since it's a Large fish there's no concern about anything eating it on the way up, and it does not put up a fight.
+
+The second method is to simply leave the bait in the water for long enough. With a large bait and the Bait Guard Upgrade , it is possible to leave the bait close enough to the surface that a medium, large, or huge fish cannot normally reach it. After some time the Old Cusper will swim toward the bait and can be reeled in.
+
+Trivia [ ]
+
+It's almost always paired with the Great Cusper
+
+It is somewhat immune to bombs, they will move away from your line for a few seconds, then go back for your line again.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Young_Cusper =====
+# Young Cusper
+"This small Cusper has yet to fully mature; it does not exhibit any extra-sensory capabilities."
+
+Young Cusper
+
+"This small Cusper has yet to fully mature; it does not exhibit any extra-sensory capabilities."
+
+Size
+
+Medium
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$5,000
+
+Location
+
+Rocky Plateau
+
+Statistics [ ]
+
+Young Cusper are a younger Blue Cusper which has no other abilities like its parent. It is pink and a medium fish found above the Rocky Plateau which usually swims in groups with Blue Cuspers.
+
+You need a medium bait or large to catch this fish. If you want to avoid the nearby Blue Cuspers, bring a bomb , but otherwise it is not necessary.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Forebearer =====
+# Forebearer
+Forebearer
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$32,000
+
+Location
+
+Furthest Ocean
+
+Statistics [ ]
+
+The Forebearer is a large, robotic fish. It is a secret fish and will not show up in the Catalog until caught.
+
+Despite showing up in the Catalog after being caught, its the only fish so far in the game that doesn't have a catalog entry.
+
+Location [ ]
+
+Somewhere in the furthest ocean
+
+Catching Guide [ ]
+
+To catch the Forebearer, a sequence of fish catches is required without recasting the line. Using a Huge Hook , first catch a Conpas . Then, with a live Conpas on the line, use it to catch a Powerfin . The Powerfin will then swim to the Forebearer, where it can be caught.
+
+Forebearer can also be spawned by just hooking a Powerfin with a Conpas and then flicking off, it will spawn somewhere at the end limit of the Tech Boat 's range and it will be catchable.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Secret_fish =====
+# Secret fish
+These are the secret fish of Cat Goes Fishing. They will not appear in the catalog until caught.
+Airy , Elder Orwellian , Forebearer , Maskfish , Noxius , Treat , which is only seen with Trick during Halloween and Underfin .
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Regions =====
+# Regions
+Map of the Cat Goes Fishing world as of the most recent update. Click on the image and then "see full image size" for better quality.
+
+The Cat Goes Fishing game world is divided into distinct regions based on depth and distance from the shore. Different regions contain different fish, with the difficulty of individual catches increasing the further the player goes from shore.
+
+While there are no distinct borders between different zones of the map, they are usually separated by underwater land masses, such as the wall that divides the open sea from the reef.
+
+The easternmost regions of the map (as well as some of the deeper parts of the chasm) are irradiated, which prevents sonar from functioning without the Tech boat .
+
+Contents
+
+1 The Bay
+
+2 Open Sea
+
+3 The Coral Reef
+
+4 The Drop-Off
+
+5 The Distant Ocean
+
+6 The Plateau
+
+7 The Furthest Ocean
+
+The Bay [ ]
+
+Main article: The Bay
+
+The Bay is the area closest to shore, where the player begins the game. It is the westernmost section of the map, and contains mostly common, easy-to-catch starter fish such as the Cuddlefish , Mustardfish and Cowfish .
+
+Open Sea [ ]
+
+Main article: Open Sea
+
+The open sea is the region directly east of the Bay. It contains a large number of rarer, more colourful fish, but also several species of fish found in the Bay such as Seraphs and Grumpers .
+
+The Coral Reef [ ]
+
+Main article: Coral Reef
+
+The Coral Reef is an area filled with rare and diverse varieties of fish not seen closer to shore, such as the Hamahed , Swaller and the Yellowjack . It is separated from the open ocean by a tall undersea cliff, the reef wall. Ontop of which is a thriving coral dome filled with many unique and colourful fish like the Celad and Pink Kisser .
+
+The Drop-Off [ ]
+
+Main article: Drop-Off
+
+The Drop off is an area east of the coral reef separated by a big cave known as "The empty cave". Not many fish live in the drop off. It is the main area in which the Dragon and Shaku is found.
+
+The Distant Ocean [ ]
+
+Main article: The Distant Ocean
+
+The Silo, also known as the Open Ocean or Distant Ocean is a deep area of open water that lies beyond the Drop-Off. On the seafloor lies the disused entrance of a nuclear silo which also acts as a sonar jammer, and the surrounding waters are heavily irradiated to the point that certain fish are becoming mutated. Within this area many strange fish can be found, like Chaw , Lampis and the eerie Abyssal .
+
+The Plateau [ ]
+
+Main article: Rocky Plateau and Kelp Plateau
+
+The Plateau is a large, flat section beyond the Silo. The left half is the Rocky Plateau which is scarcely populated aboveground with mostly the Dunkan being present, but features a large cave system with three main caverns blocked off by rocks. These rocks must be broken using a Buffalofish . The right half is the Kelp Plateau is covered by a large forest of kelp and glowing plants. It's underground features a vast labyrinth full of narrow passages and intresting fish like the Magmer and Bombig
+
+The Furthest Ocean [ ]
+
+Main article: The Furthest Ocean
+
+The Farthest Ocean is the area past the Plateau. It is populated only by a couple of fish, namely the Problematicus , Yellow Carp , and a single Bulbeater .
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Catalog =====
+# Catalog
+The Catalog as it appears in-game
+
+The Catalog is a core tool that the player has access to in Cat Goes Fishing . It records fish that the player has seen and caught, providing information on the fish itself as well as listing the sell price for each fish. The Catalog sorts fish into categories based on size.
+
+Fish that the player has seen but not caught are listed, but greyed out. A fish that was partially (or completely) eaten before it was reeled in will be shown in this state, until the player manages to catch an intact one.
+
+The Catalog is available through a tab on the left-hand side of the screen. It is unlocked once the player reach level 3.
+
+Upon reaching level 65 every fish (other then secret) get revealed in the catalog as hidden.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Swoosher =====
+# Swoosher
+Swoosher
+
+Size
+
+Medium
+
+Rarity
+
+Common
+
+Sell Price
+
+$82,000
+
+Location
+
+Plateau (Time Cave)
+
+"This incredibly ancient fish lives in caves, deep below the Plateau."
+
+Statistics [ ]
+
+The Swoosher is a dark purple medium fish that lives in the Rocky Plateau . This fish bares remarkable resemblance to both the Swisher and the Magnalav . Its fin also resembles that of the Piercer .
+
+Catching Guide [ ]
+
+It is found in the Time Cave, behind the Ancient Kingfish's cave. To catch it, you need medium or large bait and Flick because it is below the sinker limit even with Explorer . Once in the Time Cave, just flick down until you have reach them and wait for one to bite.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Lures =====
+# Lures
+Lures are purchasable, one-use items that can be attached to your line. The majority of lures last for one cast, and hooks and bombs are automatically removed when the line is reeled in.
+
+Contents
+
+1 Rocket
+
+2 Bomb
+
+3 Lightbulb
+
+4 Huge Hook
+
+5 Mega Hook
+
+6 Trawler
+
+Rocket [ ]
+
+Rocket in the Lures Shop
+
+The rocket is a one-use lure that improves your cast distance. The rocket is attached to the hook and sends it flying on cast, potentially doubling the normal casting distance of your rod. It is particularly useful in the early game, if you lack a boat, but also finds use in the late game for fishing beyond the map boundary.
+
+The rocket costs $400, and is unlocked in the Lure Shop at level 5.
+
+Wearing the Cowboy Hat decreases the cost of rockets to $100.
+
+Bomb [ ]
+
+Bomb in the Lures Shop
+
+The bomb is a lure that explodes when fish try to take the bait, scaring away any fish in a small radius. Each bomb only lasts for one explosion, but bombs can be stacked up to five with the Bomb Stack rod upgrade. The Detonator rod upgrade allows the player to detonate the bomb on command using right-click, instead of waiting for a fish to bite. Since it is a round object, the bomb can also be used to catch Bombats (although a rock is more effective).
+
+The bomb costs $200, and is unlocked in the Lure Shop at level 5.
+
+Wearing the Demolition hat decreases the cost of bombs to $90, and makes the explosion radius much larger. The Surgeon hat decreases the radius and power of bomb explosions.
+
+Keybind - B
+
+Lightbulb [ ]
+
+Lightbulb in the Lures Shop
+
+The lightbulb is a lure that, when attached to your line, provides a light source for fishing at night or in the deep ocean. By default, the lightbulb lasts for four minutes. However, when wearing the Battery Pack hat, the duration is hugely extended to 40 minutes. The duration of the lightbulb is also doubled by the Dark Boat.
+
+The extended light duration from the Battery Pack hat remains even if the player is no longer wearing that hat. Equipping the hat, buying a lightbulb, and then changing hats will allow a player to keep the longer 40-minute light duration but gain the benefit of another hat.
+
+The lightbulb costs $1,000, and is unlocked in the Lure Shop the first time the player fishes up an intact Bulbfish . It is also the main target of Bulbeaters found in lower depths.
+
+Keybind - L
+
+Huge Hook [ ]
+
+Huge hook in the Lures Shop
+
+The huge hook is a one-use lure that allows the player to chain catches (fish that bite at a smaller fish on the hook will be hooked themselves). This can be chained indefinitely until a Large or Huge fish is caught, since nothing bites fish of that size. The huge hook also allows the player to catch most Huge fish, which otherwise will simply steal bait or pull the line without being hooked. However, it will prevent the Cave Shark from biting, and the Abyssal requires an even bigger hook.
+
+The huge hook costs $5,000 and is unlocked in the Lure Shop the first time the Shark grabs and pulls your hook while holding a medium fish.
+
+Keybind - H
+
+Mega Hook [ ]
+
+Mega Hook in the Lures Shop
+
+The mega hook is an upgrade to the huge hook. It is a one-use lure and, like the huge hook, allows the player to chain catches. It also allows Large fish to be hooked regardless of the size of the bait. The mega hook is also the only hook that can catch the Abyssal , Shaku and Magnalav .
+
+The mega hook costs $50,000, and is unlocked in the Lure Shop when the player reaches level 40.
+
+Trawler [ ]
+
+Trawler in the Lures Shop
+The Trawler is an attachment for boats. When it is equipped, a white net is placed under the current boat. It can be used to catch fish which are swimming at the surface beneath the boat. This can be useful for fish that are lurking for the lure and instantly try to bite, which can be annoying for the player. The fish who are getting trapped in the net will be stuck in there and can only move a little, but are not able to reach the lure. It had a feature that if you caught enough of a certain type of fish — like mustardfish — it would make them extinct and give them an interesting new description, this feature was removed due to bugs.
+
+It is highly recommended not to use the trawler if attempting to complete quests needing medium or small fish.
+
+The Trawler costs $100,000, and it unlocks upon level 27.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Hats =====
+# Hats
+The Explorer hat being worn.
+
+Hats are collectible equipment in Cat Goes Fishing that you can find floating in the water. After a hat is reeled in, it is unlocked in the Hatalog. You can choose to sell or wear a hat that has just been reeled up. They help the player fish, save money, or provide other useful bonuses when worn. A hat can be hooked and reeled in even if there is no bait on the line, using the Scouting rod upgrade .
+
+The fishercat can only wear one hat at a time, and the player must first sell the current hat if they wish to buy a new one from the Hatalog.
+
+Contents
+
+1 Common Hats
+
+2 Uncommon Hats
+
+3 Rare Hats
+
+4 Legendary Hats
+
+5 Mythic Hats
+
+6 Discovered Hats
+
+Common Hats [ ]
+
+Common hats are the most common hats that the player can find. They usually buy and sell for little, and their benefits are mostly useful in the early stages of the game.
+
+Hat Name
+
+Effect
+
+Buy Cost
+
+Sell Cost
+
+Ballcap
+
+Increases the maximum number of active quests by one.
+
+$3,600
+
+$1,200
+
+Cowboy Hat
+
+Cowboy cats get 75% off on all rocket purchases!
+
+$4,500
+
+$1,500
+
+Sunhat
+
+Increases the sell price of Small fish by 40%, and the sun never sets.
+
+$7,500
+
+$2,500
+
+Dainty
+
+Increases the sell price of Small and Medium fish by 40%. Repels Grumpers .
+
+$6,000
+
+$2,000
+
+Uncommon Hats [ ]
+
+Uncommon hats appear more irregularly. Their effects are generally more useful than those of common hats, and can remain so even in the late game. They also sell for more.
+
+Hat Name
+
+Effect
+
+Buy Cost
+
+Sell Cost
+
+Trilby
+
+Your boat moves faster. Medium fish are more aggressive.
+
+$13,500
+
+$4,500
+
+Bones
+
+Clean fish bones are worth twice as much as a live fish.
+
+$13,500
+
+$4,500
+
+Mechanic
+
+Reduces the cost of all upgrades and attachments by 25%.
+
+$22,500
+
+$7,500
+
+The Boater
+
+Allows your boat to hold 8 more fish, but it becomes sluggish.
+
+$19,500
+
+$6,500
+
+Battery Pack
+
+Battery life of the lightbulb is greatly increased.
+
+$7,500
+
+$2,500
+
+Rare Hats [ ]
+
+Rare hats appear even more rarely than uncommon hats. Some of their effects are very specific and useful.
+
+Hat Name
+
+Effect
+
+Buy Cost
+
+Sell Cost
+
+Demolition
+
+Makes bomb explosions much larger, and bomb prices are reduced by 90%.
+
+$4,500
+
+$1,500
+
+Bait Hat
+
+Start with a medium bait every cast.
+
+$15,000
+
+$5,000
+
+Fez
+
+Attract and Repel rod upgrades are super effective; your boat is sluggish.
+
+$10,500
+
+$3,500
+
+Grind
+
+Makes your boat coast faster and allows you to wait when away from shore.
+
+$4,500
+
+$1,500
+
+Nightfall
+
+The sun never rises, and storms are more frequent.
+
+$15,000
+
+$5,000
+
+Legendary Hats [ ]
+
+Legendary hats have have very influential, dynamic effects on the game.
+
+Hat Name
+
+Effect
+
+Buy Cost
+
+Sell Cost
+
+Surgeon
+
+Fish are less aggressive and the bomb explosion radius is smaller.
+
+$18,000
+
+$6,000
+
+Sneaky
+
+You can sneak past aggressive fish, but some are harder to hook.
+
+$27,000
+
+$9,000
+
+Captain's Hat
+
+Makes huge hooks and mega hooks last two casts. The Shark follows the boat.
+
+$7,500
+
+$2,500
+
+Mythic Hats [ ]
+
+Mythic hats are very rare and valuable hats with powerful effects. They are all found randomly while fishing. By default, Mythic hats cannot be bought back if sold. Once the player reaches level 45, the option to buy Mythic hats in the Hatalog is unlocked.
+
+Hat Name
+
+Effect
+
+Buy Cost
+
+Sell Cost
+
+Cuddlebane
+
+Small fish don't take up space in your boat.
+
+$15,000
+
+$5,000
+
+Quester's Beret
+
++2 maximum number of active quests, and double quest rewards.
+
+$54,000
+
+$18,000
+
+The Tinkerer
+
+Stackable rod upgrades are practically free. Tinker away!
+
+$36,000
+
+$12,000
+
+Tophat
+
+Fish are worth double, but rod upgrades are disabled.
+
+$25,500
+
+$8,500
+
+Lens Cap
+
+Allows you to see the lunge range of fish.
+
+$36,000
+
+$12,000
+
+Pernicus
+
+Listen to alternate background music!
+
+$54,000
+
+$18,000
+
+Trucker
+
+Listen to alternate background music!
+
+$54,000
+
+$18,000
+
+Seer
+
+Quest fish are coloured red on the radar.
+
+$192,000
+
+$64,000
+
+Kardinal
+
+Occasionally cast your line further than usual!
+
+$240,000
+
+$80,000
+
+Discovered Hats [ ]
+
+There are four hats which can always be found at the same specific location. They have the rarity "Discovered" and are arguably more valuable than Mythic hats.
+
+Hat Name
+
+Effect
+
+Buy Cost
+
+Sell Cost
+
+Fennec
+
+Flick further but always loose [sic] fish.
+
+$100,000
+
+$100,000
+
+Explorer
+
+Allows the Sinker rod upgrade to sink even deeper.
+
+$50,000
+
+$50,000
+
+Dig Hat
+
+Cast backward on dirt to find a delicious worm.
+
+$5,000
+
+$5,000
+
+Witchy
+
+Occasionally sip a potion for a special effect.
+
+$50,000
+
+$50,000
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Koin =====
+# Koin
+"The Koin wander far and wide, collecting trace minerals from the sea to form a valuable deposit on their head."
+
+Statistics [ ]
+
+Koin
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$240,000
+
+Location
+
+Coral reef, Open ocean
+
+The Koin is a large golden-brown fish with a curiously shaped medal implanted on the big bulbous head. It has whiskers that bob whenever it makes a turn (note that it's not shown in the reference picture), and the eye has a joyful cartoon trope. The Koin roams the ocean, scavenging for valuable minerals on the seabed. They slowly swim in groups of two to three, diving and swooping down on the ocean floor to gather minerals, repeating the process over again. It can be hard to stumble across them with their path.
+
+Location [ ]
+
+Koin are found in the Open Ocean and along the reef wall of the Coral Reef , where large fish alike roam. It is found in a similar area to the Tik Tik and Conga .
+
+Catching guide [ ]
+
+Can be found swimming in a pair around the area anywhere from the shore to the coral basin. They can be tricky to catch because they have a small lunge radius and are always on the move. And consistently goes down where large fish swim and get in the players way of catching the elusive Koin, so its highly recommended to get a large bait and then wait for the Koin to reach the shallow water. Koin will put much of a fight when hooked considering that fact that they don't seem much of a fight at first glance.
+
+Trivia [ ]
+
+The oddly shaped metal on the Koin head looks remarkably similar to the Pokemon Meowth 's coin. Therefore, it may also be intended to be a koban coin.
+
+The Koin being caught, showing its noticable whiskers.
+
+Trivia [ ]
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Moga =====
+# Moga
+"The Moga never tires and never sleeps. He can easily snap a weak line. Accustomed to darkness, he fears the light."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+2 Catching Guide
+
+3 Trivia
+
+Statistics [ ]
+
+Moga
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$180,000
+
+Location
+
+The Open Ocean (Depths)
+
+The Moga is a Huge, flat, grey fish that resembles a real-world sunfish. Although it appears fairly commonly, it is rarely seen due to its aversion to light that drives it away from any lines equipped with a Lightbulb .
+
+Location [ ]
+
+The Moga as seen on the radar.
+
+The Moga swims in the Open Sea , and will follow the boat until it passes the reef wall. Using this knowledge, a player can estimate where the Moga will be at any given time.
+
+Catching Guide [ ]
+
+How to Catch a Moga - Cat Goes Fishing- Caverns and Coral
+As with other Huge fish, a huge hook and large bait are required to catch the Moga. Since it will flee from a Lightbulb, the sonar is extremely useful in locating it.
+
+The Moga is one of the harder fish to catch in Realism mode, thanks to its persistence, high stamina, and aversion to light. This last point requires it to be caught during the night or during a storm ; it will be extremely difficult to be reeled into the boat, as it will constantly drag the line down as soon as it leaves the depths. This means that the player will have to track their line tension through the audio cues, or use deep sonar if they have it. Moga spawns under the Tiger Shark .
+
+You will need:
+
+Preferably three Gauge and Improved Crank rod upgrades . (If on realism mode.)
+
+A huge hook.
+
+Sonar or (ideally) deep sonar, to track the Moga's movements and time your reeling with its movements.
+
+large bait
+
+The easiest way to catch the Moga is luring it near the surface during night or thunderstorms and then quickly reeling it into the boat. Just be aware of any large or medium fish eating your bait.
+
+Trivia [ ]
+
+The Moga seems to be based on the MolaMola aka Sunfish of the real world, The difference between them is that the fish in the game is afraid of light, while in real life it actually loves it, basking in it. Additionally, in the game it is quick and agile, whereas in real life it’s a very poor swimmer. So even though it’s based on this fish, it’s actually the opposite of it.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Skrimp =====
+# Skrimp
+Skrimp
+
+Size
+
+Small
+
+Rarity
+
+Common
+
+Sell Price
+
+$100
+
+Location
+
+Open Sea (deep ocean)
+
+Normal: "These scrumptious Skrimps can be found huddled together in the depths. They are exceptionally useful as live bait."
+
+Extinct: "These scrumptious Skrimps could be found huddled together in the depths. They were once exceptionally useful as live bait."
+
+Statistics [ ]
+
+The Skrimp is a Small fish that is creamy in color with a light creamy belly. It resembles real-life small aquatic crustaceans such as shrimp or krill. It can be found in large, stationary schools. While it has a low value and so isn't worthwhile to sell, it is very useful for live bait , particularly when catching the Lionfish . Skrimp can be also used like a Mega Hook .
+
+Location [ ]
+
+The Skrimp can be found on the raised island west of the chasm and the reef wall, in the depths of the Open Sea . It is on the left side of the dropoff, near the thick patches of seaweed.
+
+Catching Guide [ ]
+
+It can be pretty hard to reel in a Skrimp because of its location - at the bottom of the Open Sea, with many larger fish that can get in the way and potentially eat your catch. Using a bomb to clear out fish before sending your line down can help create a path. However, since the best use for Skrimps is as live bait, it's really only worthwhile to do this to fill in your Catalog .
+
+Trivia [ ]
+
+Skrimps resemble Pandalus borealis , the northern prawn or pink shrimp.
+
+Location of the Skrimp on sonar
+
+Skrimp in the menu
+
+Three huddled Skrimp by a clump of seaweed and a hook with small bait
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Noctis =====
+# Noctis
+Normal: "This intelligent titan emerges at night, policing the sea with his powerful presence. "
+
+Extinct: "This now extinct titan once emerged at night, policing the sea with his powerful presence."
+
+https://cat-goes-fishing.fandom.com/wiki/File:Sfx_noctis_drag.ogg Noctis dragging
+
+Statistics [ ]
+
+https://cat-goes-fishing.fandom.com/wiki/File:Sfx_noctis_approach.ogg Noctis approaching
+
+Noctis
+
+Normal
+
+Halloween
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$250,000
+
+Location
+
+The Bay and the Open Sea, at night and during storms
+
+The Noctis is a huge, fast, and elusive fish that comes out during darkness to steal fish hooked on the line. It resembles a giant salmon, with a crimson body and brown head. Its speed and power makes it a difficult catch. It's appearance near the boat is preceded by a noticeable bubbling sound. It also plays a very unnoticeable sound effect when being dragged down by it.
+
+Location [ ]
+
+The Noctis only emerges at night and during storms . It can be found swimming in a swooping, zig-zagging motion roaming the Bay and the Open Sea .
+
+The Noctis on the radar
+
+Catching Guide [ ]
+
+How to Catch a Noctis - Cat Goes Fishing- Caverns and Coral
+Video showing how to catch the Noctis
+Catching the Noctis requires a huge hook and large bait . Its lunge range is very small, so it may be necessary to shove the lure directly into its path to get it to bite. For this, tracking its movements using the sonar can be helpful, you can also using the Flick upgrade flick your lure into the lunge range of the Noctis when it comes nearby
+
+In Realism mode , the best strategy for catching the Noctis is to hover your line just below the surface at a point where its swim pattern brings it close. As soon as it bites, reel it in as fast as possible. If done correctly, the Noctis can be reeled in with very little effort.
+
+You will need:
+
+A huge hook and sonar (not essential but handy).
+
+Lightbulb lure (not essential but can help you spot it).
+
+In Realism mode, at least two Gauge upgrades and at least one Improved Crank .
+
+If you fail to quickly catch the Noctis it can put up a significant fight and will drag your line down, potentially snagging it on the seafloor. This is why it's helpful to have an Improved Crank in Realism mode.
+
+It can approach the boat so try seeing where it is on radar.
+
+Noctis pulling against the line
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Shark =====
+# Shark
+shark in catalog
+"The Shark will shred a fish on the end of your line, dragging it deeper in the process."
+
+Statistics [ ]
+
+Shark
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$64,000
+
+Location
+
+The Bay
+
+The Shark is most likely the first Huge fish a new fishercat will encounter. Like most Huge fish, it requires a huge hook to catch. The first time that a player hooks a Shark, it will drag the line down and snap it, unlocking the huge hook in the Lure Shop.
+
+The Shark can be useful when there are many aggressive Small or Medium fish around that may steal your bait, as it will grab any live fish on your line and shred them, creating new bait equivalent to the size of the hooked fish.
+
+Location [ ]
+
+The Shark swims low down (but not in darkness) in the waters of the Bay .
+
+Catching Guide [ ]
+
+The Shark only eats live bait - specifically, Medium fish. To prepare to catch it, first get medium or large bait on your hook, and then equip the huge hook and cast your line. Catch a Medium fish, and float your line down to the area where the Shark swims. Once hooked, it is fairly simple to catch, even in Realism mode . Simply pull when it relents, and even though it will take your line further down again, it won't be as far as it was before you pulled.
+
+Although it is easier to reach the Shark with an upgraded rod, it is possible to catch it using only the Basic Rod .
+
+If you are having trouble getting your hook down to the Shark's level, using the Bait Guard or Crankbait rod upgrades or clearing a path with bombs may help.
+
+Trivia [ ]
+
+The Perpetual Motion achievement is awarded for chaining three bites from a Shark and other fish.
+
+The Clever Cat achievement is gained by catching the Shark with a basic rod, classic is recommended.
+
+The shark is one of the few fish that may be helpful to keep around, you can turn undesirable fish back into bait to catch a more valuable one.
+The distance gained by the shark snagging the line can be used to get your line on the sea floor, which will allow to snap your line and unlock the flick rod upgrade, one of the best upgrades in the game.
+
+Shark pursuing the line.
+
+The Shark as it appears on the radar in the Bay.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Yin =====
+# Yin
+Normal: "The Yin is found in caves far from shore. It will not take the bait until it finds balance. "
+Extinct: "The Yin was found in caves far from shore. It would not take the bait until it found balance."
+
+Statistics [ ]
+
+Yin
+
+Size
+
+Small
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$64,000
+
+Location
+
+Caverns (chasm)
+
+The Yin is a small fish with a white body and rounded black fins. Elusive and curious, it has a tendency to follow bait , but will not bite the hook unless it is swimming alongside its partner, the Yang .
+
+Location [ ]
+
+The Yin is found in the open water directly west of the reef wall, far down at the point where the water becomes totally black. It is always found in a school of three, and is easy to find by simply following the reef wall down.
+
+Catching Guide [ ]
+
+The Yin and Yang will only bite the hook when they are next to each other. This is not a trivial task, as the Yin is found far east close to the reef wall and the Yang is found on the far left-hand side of the map below the Bay.
+How To Catch Yin and Yang - Cat Goes Fishing
+When approaching either the Yin or Yang with bait, they will begin to follow it. Unlike other fish, it is very difficult to break the attention of the Yin and Yang, and they will follow the lure indefinitely as long as it does not get too far away. The player must use this tendency to lead one school to the other, at which point they will begin circling around each other. When they are in this circling motion, they can be hooked.
+
+You will need:
+
+Crankbait and Sinker rod upgrades , for avoiding the attention of fish and leading the Yin through the water.
+
+A Luxury Boat or better, since you need to travel between the Bay and the reef wall.
+
+Lightbulb lure (both Yin and Yang are found in darkness).
+
+Nightfall hat (not essential, but can make navigating easier as there are less small fish to avoid at night).
+
+It may be convenient to clear the Yang's cave, because the larger fish will try to eat anything you catch as you are trying to get it out.
+
+Note that the Yin and Yang both have very long respawn times. If you are trying for a specific one and fail to hook it, do not clear out an entire school, or you will have to wait for all three of them to respawn. It is more convenient to back off until both schools have returned to their respective homes, and then try the journey again. Sometimes, the fish that you did not lead to a new location will refuse to bite. In this case, try the journey from the other direction.
+
+Tip: You can catch a hat and lure the fish into eachother, then come back later.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Yang =====
+# Yang
+Normal: "The Yang is found in caves near the shore. It will not take the bait until it finds balance."
+Extinct: "The Yang was found in caves near the shore. It would not take the bait until it found balance."
+
+Statistics [ ]
+
+Yang
+
+Size
+
+Small
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$64,000
+
+Location
+
+Caverns (Bay caves)
+
+The Yang is a Small fish with a black body and jagged white fins. Elusive and curious, it has a tendency to follow bait , but will not bite the hook unless it is swimming alongside its partner the Yin .
+
+Location [ ]
+
+The Yang is found in the far western Caverns , in a small chamber directly below the Bay . It is always found in a school of three.
+
+Catching Guide [ ]
+
+The Yang and Yin will only bite the hook when they are next to each other. This is not a trivial task, as the Yang is found on the far left-hand side of the map below the Bay, and the Yin is found far east close to the reef wall.
+How To Catch Yin and Yang - Cat Goes Fishing
+When approaching either the Yin or Yang with bait, they will begin to follow it. Unlike other fish, it is very difficult to break the attention of the Yin and Yang, and they will follow the lure indefinitely as long as it does not get too far away. The player must use this tendency to lead one school to the other, at which point they will begin circling around each other. When they are in this circling motion, they can be hooked.
+
+You will need:
+
+Crankbait and Sinker rod upgrades , for avoiding the attention of fish and leading the Yang through the water.
+
+A Luxury Boat or better, since you need to travel between the Bay and the reef wall.
+
+Lightbulb lure (both Yin and Yang are found in darkness).
+
+Nightfall hat (not essential, but can make navigating easier as there are less small fish to avoid at night).
+
+The small cave that the Yang is found in is also home to several Cavefish , Stankfin , and occasionally Carvers . This makes attracting its attention without getting your bait eaten a tough prospect, and it may be convenient to clear out the Yang's cave before starting the endeavour. This is especially true if you are leading the Yin into the Yang's cave, because the larger fish will try and eat anything you catch as you are trying to get it out.
+
+Note that the Yin and Yang both have very long respawn times. If you are trying for a specific one and fail to hook it, do not clear out an entire school or you will have to wait for all three of them to respawn. It is more convenient to back off until both schools have returned to their respective homes, and then try the journey again. Sometimes, the fish that you did not lead to a new location will refuse to bite. In this case, try the journey from the other direction.
+
+Tip : You can catch a hat and lure the fish into eachother, then come back later. Fish won't bite your bait.
+
+Easier catch method: requires Trawler and a Flick rod upgrade. All you have to do is lead the fish to your boat and then flick the bait through the Trawler. Important: This does not seem to count towards completing the quest nor does it reveal the fish in the Catalog.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Cat_Goes_Fishing_Wiki%3ARules_of_Conduct =====
+# Cat Goes Fishing Wiki:Rules of Conduct
+Please make sure you also familiarise yourself with the Editing Guidelines !
+
+In order to combat past vandalism and other problems, these rules have been established.
+
+Users whose behaviour does not meet the standards of the wiki may receive a warning. If problems with the user persist, they may have their editing right revoked, be suspended, or even banned, depending on the severity of the issues.
+
+Follow the FANDOM Terms of Use .
+
+Be respectful towards each other, from the most active admin to the newest newbie.
+
+Do not make use of strong language, racial slurs, or sexist jokes on the Wiki, censored or otherwise.
+
+Keep drama (from other wikis, real life, etc) off of this wiki. It has no place here and will likely only stir up more fights and drama. This especially includes political discussions.
+
+Help other users out, if you can, as opposed to degrading them for their lack of ability.
+
+Ban evasion is against the rules. This includes sockpuppeting.
+
+Trolls and vandals will be banned.
+
+Do not delete or falsify vital information or files.
+
+Advertising is not allowed.
+
+If you want to add a new feature across the Wiki, put it up for discussion first.
+
+Nonsense posts, spam posts and Caps lock posts will be removed.
+
+Before asking a question, please make sure it has not already been asked or answered either in the comments or in the article itself.
+
+Do not edit other users' private pages, such as a profile or sub page.
+
+Admins and mods get the final say, respect their decisions.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Open_Sea =====
+# Open Sea
+The Coral Tree, the most prominent feature of the Open Sea
+
+The Open Sea is an open stretch of water east of the Bay . It is largely featureless, but the seafloor features a mass of seaweed, a strange coral tree, and several openings into the Sea Caverns . The Open Sea ends at the reef wall, which separates it from the Coral Reef . It is home to a large number of diverse fish .
+
+Contents
+
+1 Sub-regions
+
+1.1 Reef Wall
+
+1.2 Sea Caverns
+
+1.3 Coral Tree
+
+1.4 Chasm
+
+2 Fish
+
+2.1 Small fish
+
+2.2 Medium fish
+
+2.3 Large fish
+
+2.4 Huge fish
+
+Sub-regions [ ]
+
+Reef Wall [ ]
+
+The cliff face which forms the western edge of the Coral Reef , also known as the reef wall. It acts as the eastern-most edge of the Open Sea and separates it from the Coral Reef. Some unique fish are found swimming close to it such as the Torby .
+
+Sea Caverns [ ]
+
+The Sea Caverns under the Open Sea, many valuable fish can be found there such as the Thresher and the Cave shark .
+
+Coral Tree [ ]
+
+The Underwater tree Is a tree on the floor of the Open Sea, there are many unique fish around it such as the Sassy , Skrimp and Spotter .
+
+Chasm [ ]
+
+The Chasm is a deep cave-like structure seemingly without a floor where all day-time only fish go to sleep during the night. The only fish close to the Chasm area is the Yin and the occasionally swimming by Gorbon
+
+Fish [ ]
+
+There are a large number of fish that are unique to the Open Ocean, including the Skitter, Puff, Sizzer and Bagu. Many fish found in the Bay can also be found here, including the Seraph, Sibilfin and Turgeon.
+
+Small fish [ ]
+
+Gallina - In the shallow waters closer to the surface. Also found in the far eastern side of the Bay.
+
+Tangfin - In the shallow waters closer to the surface. Also found in the far eastern side of the Bay.
+
+Tetra - Swims in large schools at surface and midwater depths, usually moving diagonally.
+
+Skitter - Swims in schools at surface and midwater depths, surrounding a single Red Skitter.
+
+Red Skitter - Swims in schools at surface and midwater depths, surrounded by normal Skitter
+
+Tappy - Found in the midwaters and at slightly lower depths, but not in total darkness.
+
+Baby Sizzer - Always found near the middle of the region, in the mid-ocean waters. Accompanied by adult Sizzer.
+
+Trillow - At mid-ocean depths, swimming in a wide, loose circle pattern.
+
+Puff - Towards the eastern side of the ocean, closer to the reef wall, at surface and midwater depths.
+
+Kingfish - Follows Queenfish in large schools.
+
+Ember - Can be found to the left of the Tiger Shark.
+
+Skrimp - Found in large numbers on the hilly section of seafloor just past the coral tree, near the drop-off.
+
+Sassy - In the Depths just before the coral tree, above a large patch of seaweed.
+
+Medium fish [ ]
+
+Garump - Towards the western end of the region, in the shallow to mid-ocean range.
+
+Leofish - Towards the western end of the region, just above the Depths.
+
+Beakfish - Towards the western end of the region, at roughly mid-ocean depths.
+
+Queenfish - Found in the midwaters, surrounded by Kingfish.
+
+Sourfish - At shallow to mid-ocean depths across the Open Ocean and beyond.
+
+Kernel - To the left of the Coral Tree, hiding behind some corals.
+
+Sibilfin - In the upper and midwaters between the Bay and the middle of the Open Ocean, usually being chased by Turgeon.
+
+Sizzer - Always found near the middle of the region, in the mid-ocean waters. Usually in a group of three with a number of Baby Sizzer.
+
+Stalker - May be found throughout the ocean area, following Large or Huge fish.
+
+Spallow - Swims relatively close to the surface, usually near schools of Skitter.
+
+Curby - At midwater depths towards the east, closer to the reef wall.
+
+Snoutfish - Rarely seen following larger fish, particularly in deeper waters.
+
+Stormy - In the deeper waters above the chasm, only during storms .
+
+Large fish [ ]
+
+Cowfish - Towards the western end of the region, in the shallow to mid-ocean range.
+
+Seraph - In the shallow to mid-ocean range across the ocean.
+
+Georgian - At mid-ocean depths across the ocean.
+
+Turgeon - In the upper and midwaters between the Bay and the middle of the Open Ocean, usually chasing Sibilfin.
+
+Trumble - In the deeper waters offshore and in the open ocean, where it swims just above the Depths.
+
+Bagu - Found just west of the reef wall in a pair.
+
+Torby - In deeper waters just west of the reef wall, just above the chasm. There are only two.
+
+Ghost - After catching 2 Torby and only during the storm
+
+Spotter - In the Depths near the coral tree, along the seafloor.
+
+Gupper - Above the chasm near the reef wall, and may sometimes swim up out of the Depths.
+
+Huge fish [ ]
+
+Tiger shark - Close to the shore past The Bay
+
+Moga - Will follow your boat while you are in the Open Sea
+
+Cave shark - In one of the deepest western caves under the sea.
+
+Swordfish - Usually found near the Underwater tree but will sometimes venture closer to the surface.
+
+Noctis - Travels back and fourth throughout the whole sea during nighttime.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Seer =====
+# Seer
+Seer
+
+Rarity
+
+Mythic
+
+Effect
+
+Quest fish are coloured red on the radar.
+
+Buy cost
+
+$192,000
+
+Sell cost
+
+$64,000
+
+Seer is a Hat . It displays quest fish on the sonar with a red icon.
+
+Usefulness [ ]
+
+When looking for an elusive fish the Seer hat can be invaluable, as it allows the player to quickly scan the map with the sonar instead of painstakingly scouring an area. It also helps when receiving a quest for a previously unknown fish, as it provides a clear pointer even if the player doesn't know what they're looking for.
+
+However, it is one of the most expensive hats in the game (behind the Kardinal ) and so buying it on demand isn't easy until the player has a lot of spare cash available.
+
+Fishing up the Seer hat is one way to obtain the Super Swag achievement , which is awarded for fishing up a Legendary or Mythic hat.
+
+How to Acquire [ ]
+
+Like most hats in Cat Goes Fishing , the Seer hat is obtained by finding it underwater and fishing it up. Hats can be hooked even if the bait has already been eaten (provided the Scouting rod upgrade is equipped).
+
+While searching for hats, they show up as distinctive icons on the sonar and deep sonar. In addition, hats seen floating in the water will eventually sink to the seabed if not caught, requiring the use of the Sinker rod upgrade to find them and pull them up.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Cuddlefish =====
+# Cuddlefish
+Normal: " Found near the shore, this fish tires quickly and is the ideal target for novice fishercats."
+
+Extinct: "Now extinct, this once abundant fish was the ideal target for novice fishercats."
+
+Contents
+
+1 Statistics
+
+2 Location
+
+3 Catalog Entry
+
+4 Catching Guide
+
+Statistics [ ]
+
+Cuddlefish
+
+Normal
+
+Halloween
+
+Size
+
+Small
+
+Rarity
+
+Common
+
+Sell Price
+
+$50
+
+Location
+
+The Bay, Open Ocean
+
+The Cuddlefish is a Small, extremely common fish that gathers in large schools in shallow waters. It is a small, round, blue fish with darker blue fins, and most likely the first fish that a new player will catch. Because of its very low sell price, the Cuddlefish is most useful as bait for larger fish.
+
+Location [ ]
+
+The Cuddlefish is found in schools in the upper waters of The Bay , and more rarely in the Open Ocean .
+
+Catalog Entry [ ]
+
+Catching Guide [ ]
+
+The Cuddlefish is unarguably the easiest fish in the game to catch. You may use any Fishing Rod with any Bait, cast your rod in The Bay , hook it and reel it in without much issue. The only fish who may pose a real threat to eating your Cuddlefish before you reel it in are the Grumper and the Mustardfish .
+
+[Video Guide]
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Shaku =====
+# Shaku
+(Before Encountering): "Soothpurrs say a silver shark (on some solemn occasions) comes from distant seas and silently sleeps amongst the weeds that grace our stony shores."
+
+(Before Catch): "Soothpurrs say this shark, now resting on our stony shores, lay sleeping, waiting for some whispered secret."
+
+(After Catch): "Don't be deceived by the stern expression of its false eye; this soft and solitary shark spends most of its life lying flat, sleeping peacefully on the ocean floor."
+
+Contents
+
+1 Statistics
+
+1.1 Location
+
+1.2 Spawn Dates (uses UTC time)
+
+2 Catching Guide
+
+Statistics [ ]
+
+Shaku
+
+Size
+
+Huge
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$780,000
+
+Location
+
+The Drop-off
+
+The Shaku is a light-blue shark with a white head that was added in the 2023 Swimming Hotfix update, who much like the Cave Shark , is always found asleep. It has a black pattern that resembles an eye, but its true eye has a red eyelid. The false eye, however, is not visible in the Catalog image.
+
+Location [ ]
+
+Shaku's location in the Drop-Off, just above Mamo's den
+The Shaku is a huge fish that is found sleeping in the The Drop-Off above and left of the Mamo 's Den. To find its exact location, go to the sell hut in the Dragon 's Territory, and look at the two mountains in the backdrop. Line up your cat with the peak of the second mountain. It only spawns during specific days of the year.
+
+Spawn Dates (uses UTC time) [ ]
+
+April 29-30
+
+May 1-6
+
+The first and third Saturday of all non-December months
+
+August 9
+
+December 25
+
+December 21-31, during hour numbers divisible by 4
+
+Weekends
+
+Catching Guide [ ]
+
+The Shaku requires Large Bait and a Mega Hook to catch, and a Lightbulb to see in the dark. The Shaku requires the player to have unlocked Swimming in order to catch it. Cast your line, then swim down alongside the bait. When you reach the Shaku, hover your bait just above its head, then grab and hold onto its face. The Shaku will start blinking, and then will lunge to grab your bait. It can only be caught while blinking. Using this method, Radar is disabled. It can be helpful to catch the Dragon first to avoid it interfering, but this is not necessary.
+
+Special thanks to Powr1ngHow1ng for being the first to locate, catch, and discover the method of catching the Shaku.
+
+FACTS:
+
+• In ocean shaku have a fake eye but in catalog that fake eye will disappear
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Swisher =====
+# Swisher
+Normal: "This small, light blue fish lives on the ocean floor just past the coral reef basin. "
+
+Extinct: "This small, light blue fish once lived on the ocean floor just past the coral reef basin."
+
+Statistics [ ]
+
+Swisher
+
+Size
+
+Small
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$9,000
+
+Location
+
+Coral Reef
+
+The Swisher is a Small, elusive fish with a pale blue body. Perhaps because it is nocturnal, it has large, staring eyes. It gathers in small schools, so although it is hard to find it is possible to make a decent profit by catching a whole school of Swisher.
+
+Location [ ]
+
+The Swisher is found in the Drop-off. However, unlike most Small reef fish, it is only found in one specific location east of the coral basin, and it can appear at night , as well as when you load up a save. Beyond the basin but before the tunnel that leads down into the empty caves of the drop off, there is a small rocky outcropping. At night, a school of Swisher will gather at this spot, just above the seafloor.
+
+Catching Guide [ ]
+
+A bait and optionally a lightbulb should do. Just make sure to get it right after you start the game otherwise they will swim off never to return until you restart the program.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Rogachev =====
+# Rogachev
+This oddly shaped fish sucks up its friends and launches them for protection; they share a symbiotic relationship.
+
+Statistics [ ]
+
+Rogachev
+
+Size
+
+Medium
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$450,000
+
+Location
+
+Above Kelp Plateau
+
+The Rogachev is a Medium fish with a yellow body and purple at the end of its fins. It has a distinctive long mouth.
+
+Location [ ]
+
+The Rogachev is normally found in the Kelp Plateau area just before deep waters, which is reachable via the Tech Boat . It is almost always found with a few Flechette at the Kelp Plateau.
+
+Catching guide [ ]
+
+To catch the Rogachev you need to have at least medium bait like a Snobfish or Roundfin , though in the Kelp Plateau your best choice for bait are Flechette , Lil Cheesefin or Rare Fruit , which are all found semi-deep down. It is recommended to have: Bomb Stack and Detonator on your rod when catching it. Bombs are very handy to deter nearby Bulbeaters and Flechettes . A lightbulb is also highly recommended.
+
+Rogachev will shoot out nearby Flechette through its mouth to prevent the player from hooking it. Therefore, it is recommended to stay decently above where wild Flechette hang out above the cave system.
+
+The Rogachev doesn’t fight back all too much in Realism Mode , but Gauge can still be useful.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Regina =====
+# Regina
+"The self-proclaimed queen of all fish, banished for her tyranny, now serves as the Ancient Kingfish's most loyal companion."
+
+Statistics [ ]
+
+Regina
+
+Size
+
+Large
+
+Rarity
+
+Exotic
+
+Sell Price
+
+$700,000
+
+Location
+
+Rocky Plateau
+
+The Regina is a Large red fish with a yellow underbody. It has the distinctive crown mark imprinted on her head, being a Queen as a partner of the Ancient Kingfish .
+The Regina is usually found swimming alongside a Bishop and its name comes from the word Reginal , meaning queenly.
+
+Location [ ]
+
+The Regina is found in the Rocky Plateau area which is reachable via the Tech Boat . It resides in the first cave which must be broken by a Buffalofish . Once the cave is broken, Regina will swim out and stay around The Plat eau area. At this point, Regina may swim at any depth - from deep water all the way up your boat.
+
+Catching guide [ ]
+
+Catching the Regina cannot be done by normal means if the Ancient Kingfish hasn't already been caught. The only way it will take your bait is if you're in the process of reeling the Ancient Kingfish in. In that case, Regina will sacrifice herself and swim to your hook. A large bait is needed. Alternatively, after you catch the Ancient Kingfish and wait for a while, the Regina will swim back to the Ancient Kingfish cave where it can be easily caught with a large bait.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Beakfish =====
+# Beakfish
+Normal: "Once hooked, the Beakfish turns in response to tension on the line. Clever fishercats have been known to use this behavior to their advantage."
+
+Extinct: "Once hooked, the Beakfish would turn in response to tension on the line. Clever fishercats were known to use this behavior to their advantage.It is now Extinct"
+
+Statistics [ ]
+
+Beakfish
+
+"Once hooked, the Beakfish turns in response to tension on the line. Clever fishercats have been known to use this behavior to their advantage."
+
+Size
+
+Medium
+
+Rarity
+
+Common
+
+Sell Price
+
+$1,200
+
+Location
+
+The Bay
+
+The Beakfish is a medium fish. Once hooked it spins in a circle, by reeling you can change the direction of the fishes path. It is not very aggresive. Beakfish are usually found in schools at small depth, it usually swims to surface.
+
+Location [ ]
+
+The Beakfish is mostly found in the deeper waters of The Bay , sometimes going near the Tiger Shark . They are much more common in The Bay however.
+
+===== URL: https://cat-goes-fishing.fandom.com/wiki/Cat_Goes_Fishing =====
+# Cat Goes Fishing
+Cat Goes Fishing follows the fishing adventures of the main character, the aptly named Cat. The game does not have a set storyline or plot and is mainly upgrade based.
+
+Although there is no true end to the game, there are certain milestones that most players will eventually reach. This includes: catching the first Huge fish , catching the most expensive fish , and completing the Catalog . There is also a secret ending followed by credits that is available after reaching level 25, using the rare Josie fish or a Seraph .
+
+Update History [ ]
+
+Cat Goes Fishing was initially released in 2015 by the studio Cat5Games. The last update was 966 days ago.
+
+May 2015 - Realism mode introduced.
+
+April 2016 - Night mechanics introduced.
+
+February 2017 - Caves and coral introduced. Minor bug fixes.
+
+October 2017 - Performance improved.
+
+April 2018 - New fish added. More bug fixes.
+
+October 2019 - The Silo area and related fish introduced. Mega Hook and Collier Boat added.
+
+November 2019 - More bug fixes.
+
+July 2022 - Added more fish, including a number of Huge fish. Significant changes to swimming mechanics.
+
+July 2023 - Tech Boat and new regions introduced. Minor bug fixes.
+
+August 2023 - New fish added. Change to Swimming and bug fixes.
+
+October 2023 - Halloween update. New hat and fish costumes.
+
+January 2024 - No changelog, added 2 new fish and an achievement.
+
+July 2024 - Helped increase the performance of the game, added a little bit of content and made the game 60 FPS.
+
+[ ]
+
+The game's art is derived from a concept called "Fishing Girl" by game developer Daniel Cook. The game concept was similar, although the player was a bear, who ultimately tried to reach another bear at the other side of an ocean. Daniel Cook created a prototyping challenge of this in 2008, and it was turned into Flash, Unity, and Xbox Indie games before Cat Goes Fishing was released.
+
+Cat Goes Fishing mentions Fishing Girl as the "original design" in its credits.
