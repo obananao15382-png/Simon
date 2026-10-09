@@ -1,0 +1,31 @@
+name: Simon AI Test Session
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  simon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Start Simon
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python main.py
+        
